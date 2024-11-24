@@ -1370,7 +1370,7 @@ Buildings
   name:Destroy Boss Finality Wall
   req:1 destroyBonusWall44
   *destroyBonusWall46
-  desc:Destroy the King Finality Wall.<br>Gives <b>10 septillion</b> bricks and <b>10 undecillion</b> cash.<br>Gives <b>1</b> boss bricks, <b>8</b> Finality Bricks, <b>80</b> End bricks, <b>1,000</b> time bricks, and <b>10,000</b> space bricks.<br>Worth <b>60,000</b> cosmic knowledge.
+  desc:Destroy the King Finality Wall.</>Gives <b>10 septillion</b> bricks and <b>10 undecillion</b> cash.</>Gives <b>1</b> boss bricks, <b>8</b> Finality Bricks, <b>80</b> End bricks, <b>1,000</b> time bricks, and <b>10,000</b> space bricks.</>Worth <b>60,000</b> cosmic knowledge.
   cost:100000000000000000000000000000000000000 totalMoney, 1 wallRequirement
   on earn:
     gain 10000000000000000000000000 bricks
@@ -1392,7 +1392,7 @@ Buildings
   name:Destroy King Finality Wall
   req:1 destroyBonusWall45
   *destroyBonusWall47
-  desc:Destroy the End Finality Wall.<br><i>Is there truly a meaning to an end?!</i><br>Gives <b>50 septillion</b> bricks and <b>60 undecillion</b> cash.<br>Gives <b>1</b> boss bricks, <b>24</b> Finality Bricks, <b>100</b> End bricks, <b>1,500</b> time bricks, and <b>17,500</b> space bricks.<br>Worth <b>70,000</b> cosmic knowledge.
+  desc:Destroy the End Finality Wall.</><i>Is there truly a meaning to an end?!</i></>Gives <b>50 septillion</b> bricks and <b>60 undecillion</b> cash.</>Gives <b>1</b> boss bricks, <b>24</b> Finality Bricks, <b>100</b> End bricks, <b>1,500</b> time bricks, and <b>17,500</b> space bricks.</>Worth <b>70,000</b> cosmic knowledge.
   cost:1000000000000000000000000000000000000000 totalMoney, 1 wallRequirement
   on earn:
     gain 50000000000000000000000000 bricks
@@ -1413,7 +1413,7 @@ Buildings
   name:Destroy End Finality Wall
   req:1 destroyBonusWall46
   *destroyBonusWall48
-  desc:Destroy the Mesh Finality Wall, and face the rest of what lies ahead.<br>Gives <b>1 octillion</b> bricks and <b>1 duodecillion</b> cash.<br>Gives <b>1</b> boss bricks, <b>128</b> Finality Bricks, <b>800</b> End bricks, <b>6,500</b> time bricks, and <b>97,500</b> space bricks.<br>Worth <b>80,000</b> cosmic knowledge."
+  desc:Destroy the Mesh Finality Wall, and face the rest of what lies ahead.</>Gives <b>1 octillion</b> bricks and <b>1 duodecillion</b> cash.</>Gives <b>1</b> boss bricks, <b>128</b> Finality Bricks, <b>800</b> End bricks, <b>6,500</b> time bricks, and <b>97,500</b> space bricks.</>Worth <b>80,000</b> cosmic knowledge.
   cost:50000000000000000000000000000000000000000 totalMoney, 1 wallRequirement
   on earn:
     gain 1000000000000000000000000000 bricks
@@ -1437,7 +1437,7 @@ Buildings
   name:Destroy Mesh Finality Wall
   req:1 destroyBonusWall47
   *destroyFantasyWall01
-  desc:<i>Now we can't tell what's different from reality and fantasy anymore. The lines have blurred... and only the <b>Tesseracted</b> can touch it.</i><br>Destroy a wall of a fantasy world and move to the next one.<br>Gives <b>1</b> Alpha brick and <b>1</b> Fifth Dimension brick.<br>Worth <b>200,000</b> cosmic knowledge.<br>Note: ...Ok, ok, maybe in fact you can keep your Alpha and Fifth Dimension bricks. Time reversal technology has improved quite vastly since we've first seen the Time Walls, so this shouldn't be a problem anymore."
+  desc:<i>Now we can't tell what's different from reality and fantasy anymore. The lines have blurred... and only the <b>Tesseracted</b> can touch it.</i></>Destroy a wall of a fantasy world and move to the next one.</>Gives <b>1</b> Alpha brick and <b>1</b> Fifth Dimension brick.</>Worth <b>200,000</b> cosmic knowledge.</>Note: ...Ok, ok, maybe in fact you can keep your Alpha and Fifth Dimension bricks. Time reversal technology has improved quite vastly since we've first seen the Time Walls, so this shouldn't be a problem anymore.
   cost:1e42 tesseractDamage, 1 wallRequirement
   on earn:
     gain 1 alphaBricks
@@ -1452,7 +1452,7 @@ Buildings
   name:Destroy Fantasy Wall #9
   req:1 destroyBonusWall48
   *destroyFantasyWall02
-  desc:<i>"When the first Fantasy Wall was destroyed, even stranger bricks came out of it. We call them the 5th Dimension Bricks because they don't even look like bricks... when separated." ~#21</i><br>Destroy another wall of a fantasy world and move to the next one.<br>Gives <b>2</b> Alpha bricks and <b>1</b> Fifth Dimension brick.<br>Worth <b>200,000</b> cosmic knowledge."
+  desc:<i>"When the first Fantasy Wall was destroyed, even stranger bricks came out of it. We call them the 5th Dimension Bricks because they don't even look like bricks... when separated." ~#21</i></>Destroy another wall of a fantasy world and move to the next one.</>Gives <b>2</b> Alpha bricks and <b>1</b> Fifth Dimension brick.</>Worth <b>200,000</b> cosmic knowledge.
   cost:5e42 tesseractDamage, 1 wallRequirement
   on earn:
     gain 2 alphaBricks
@@ -1467,7 +1467,7 @@ Buildings
   name:Destroy Fantasy Wall #8
   req:1 destroyFantasyWall01
   *destroyFantasyWall03
-  desc:<i>"Let's get something straight here. There are more after the end?! No matter how much reality has broken, I will see to it that every single wall must be demolished!" ~ RUC CEO</i><br>Destroy yet another wall of a fantasy world and move to the next one.<br>Gives <b>3</b> Alpha bricks and <b>1</b> Fifth Dimension brick.<br>Worth <b>250,000</b> cosmic knowledge."
+  desc:<i>"Let's get something straight here. There are more after the end?! No matter how much reality has broken, I will see to it that every single wall must be demolished!" ~ RUC CEO</i></>Destroy yet another wall of a fantasy world and move to the next one.</>Gives <b>3</b> Alpha bricks and <b>1</b> Fifth Dimension brick.</>Worth <b>250,000</b> cosmic knowledge.
   cost:3.5e43 tesseractDamage, 1 wallRequirement
   on earn:
     gain 3 alphaBricks
@@ -1482,7 +1482,7 @@ Buildings
   name:Destroy Fantasy Wall #7
   req:1 destroyFantasyWall02
   *destroyFantasyWall04
-  desc:<i>"We have angered the Kingdom. It's best we get this thing over with."</i><br>Destroy an insignificant wall of a fantasy world and challenge the Kingdom.<br>Gives <b>4</b> Alpha bricks and <b>1</b> Fifth Dimension brick.<br>Worth <b>250,000</b> cosmic knowledge."
+  desc:<i>"We have angered the Kingdom. It's best we get this thing over with."</i></>Destroy an insignificant wall of a fantasy world and challenge the Kingdom.</>Gives <b>4</b> Alpha bricks and <b>1</b> Fifth Dimension brick.</>Worth <b>250,000</b> cosmic knowledge.
   cost:2.25e44 tesseractDamage, 1 wallRequirement
   on earn:
     gain 4 alphaBricks
@@ -1497,7 +1497,7 @@ Buildings
   name:Destroy Fantasy Wall #6
   req:1 destroyFantasyWall03
   *destroyFantasyWall05
-  desc:<i>"The </i><br>Destroy The Pawn and move to the next.<br>Gives <b>5</b> Alpha bricks and <b>1</b> Fifth Dimension brick.<br>Worth <b>300,000</b> cosmic knowledge."
+  desc:<i>"The </i></>Destroy The Pawn and move to the next.</>Gives <b>5</b> Alpha bricks and <b>1</b> Fifth Dimension brick.</>Worth <b>300,000</b> cosmic knowledge.
   cost:1e45 tesseractDamage, 1 wallRequirement
   on earn:
     gain 5 alphaBricks
@@ -1512,7 +1512,7 @@ Buildings
   name:Destroy Fantasy Wall #5 (The Pawn)
   req:1 destroyFantasyWall04
   *destroyFantasyWall06
-  desc:<i>[insert lore description lol]</i><br>Destroy The Knight and move to the next.<br>Gives <b>6</b> Alpha bricks and <b>1</b> Fifth Dimension brick.<br>Worth <b>300,000</b> cosmic knowledge."
+  desc:<i>|insert lore description lol|</i></>Destroy The Knight and move to the next.</>Gives <b>6</b> Alpha bricks and <b>1</b> Fifth Dimension brick.</>Worth <b>300,000</b> cosmic knowledge.
   cost:3.5e45 tesseractDamage, 1 wallRequirement
   on earn:
     gain 6 alphaBricks
@@ -1527,7 +1527,7 @@ Buildings
   name:Destroy Fantasy Wall #4 (The Knight)
   req:1 destroyFantasyWall05
   *destroyFantasyWall07
-  desc:<i>[insert lore description lol]</i><br>Destroy The Bishop and move to the next.<br>Gives <b>7</b> Alpha bricks and <b>1</b> Fifth Dimension brick<br>Worth <b>400,000</b> cosmic knowledge."
+  desc:<i>|insert lore description lol|</i></>Destroy The Bishop and move to the next.</>Gives <b>7</b> Alpha bricks and <b>1</b> Fifth Dimension brick</>Worth <b>400,000</b> cosmic knowledge.
   cost:3e45 tesseractDamage, 1 wallRequirement
   on earn:
     gain 7 alphaBricks
@@ -1542,7 +1542,7 @@ Buildings
   name:Destroy Fantasy Wall #3 (The Bishop)
   req:1 destroyFantasyWall06
   *destroyFantasyWall08
-  desc:<i>[insert lore description lol]</i><br>Destroy The Rook and move to the next.<br>Gives <b>8</b> Alpha bricks and <b>1</b> Fifth Dimension brick<br>Worth <b>400,000</b> cosmic knowledge."
+  desc:<i>|insert lore description lol|</i></>Destroy The Rook and move to the next.</>Gives <b>8</b> Alpha bricks and <b>1</b> Fifth Dimension brick</>Worth <b>400,000</b> cosmic knowledge.
   cost:8.8e45 tesseractDamage, 1 wallRequirement
   on earn:
     gain 8 alphaBricks
@@ -1557,7 +1557,7 @@ Buildings
   name:Destroy Fantasy Wall #2 (The Rook)
   req:1 destroyFantasyWall07
   *destroyFantasyWall09
-  desc:<i>[insert lore description lol]</i><br>Destroy The Queen and move to the next.<br>Gives <b>9</b> Alpha bricks and <b>3</b> Fifth Dimension brick<br>Worth <b>500,000</b> cosmic knowledge."
+  desc:<i>|insert lore description lol|</i></>Destroy The Queen and move to the next.</>Gives <b>9</b> Alpha bricks and <b>3</b> Fifth Dimension brick</>Worth <b>500,000</b> cosmic knowledge.
   cost:2.5e46 tesseractDamage, 1 wallRequirement
   on earn:
     gain 9 alphaBricks
@@ -1572,7 +1572,7 @@ Buildings
   name:Destroy Fantasy Wall #1 (The Queen)
   req:1 destroyFantasyWall08
   *destroyFantasyWall10
-  desc:<i>[insert lore description lol]</i><br>Destroy The King.<br>Gives <b>10</b> Alpha bricks, <b>5</b> Fifth Dimension bricks and <b>1</b> gold brick.<br>Worth <b>1,000,000</b> cosmic knowledge."
+  desc:<i>|insert lore description lol|</i></>Destroy The King.</>Gives <b>10</b> Alpha bricks, <b>5</b> Fifth Dimension bricks and <b>1</b> gold brick.</>Worth <b>1,000,000</b> cosmic knowledge.
   cost:1e47 tesseractDamage, 1 wallRequirement
   on earn:
     gain 1 goldBricks
@@ -1590,7 +1590,7 @@ Buildings
 
 // begin infinity walls
   *destroyInfWall01
-  desc:<i>Reaching beyond the heavens. Nothing makes sense.</i><br>Destroy one of the walls of the infinite walls.<br>Gives <b>15</b> Alpha bricks, <b>2</b> Fifth Dimension bricks and <b>1 undecillion</b> bricks.<br>Worth <b>250,000</b> cosmic knowledge."
+  desc:<i>Reaching beyond the heavens. Nothing makes sense.</i></>Destroy one of the walls of the infinite walls.</>Gives <b>15</b> Alpha bricks, <b>2</b> Fifth Dimension bricks and <b>1 undecillion</b> bricks.</>Worth <b>250,000</b> cosmic knowledge.
   cost:2.3465e47 tesseractDamage, 1e47 totalmoney, 1 wallRequirement
   on earn:
     gain 1e36 bricks
@@ -1606,7 +1606,7 @@ Buildings
   name:Destroy a Infinity Wall
   req:1 destroyFantasyWall10
   *destroyInfWall02
-  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>25</b> Alpha bricks, <b>4</b> Fifth Dimension bricks, <b>16,000</b> artifical space bricks and <b>8 undecillion</b> bricks.<br>Worth <b>350,000</b> cosmic knowledge."
+  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>25</b> Alpha bricks, <b>4</b> Fifth Dimension bricks, <b>16,000</b> artifical space bricks and <b>8 undecillion</b> bricks.</>Worth <b>350,000</b> cosmic knowledge.
   cost:4.8484848e48 tesseractDamage, 1.547531e48 totalmoney, 1 wallRequirement
   on earn:
     gain 8e36 bricks
@@ -1623,7 +1623,7 @@ Buildings
   name:Destroy an Aleph-0 Infinity Wall
   req:1 destroyInfWall01
   *destroyInfWall03
-  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>40</b> Alpha bricks, <b>7</b> Fifth Dimension bricks, <b>64,000</b> artifical space bricks, <b>25,400</b> artifical time bricks and <b>32 undecillion</b> bricks.<br>Worth <b>450,000</b> cosmic knowledge."
+  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>40</b> Alpha bricks, <b>7</b> Fifth Dimension bricks, <b>64,000</b> artifical space bricks, <b>25,400</b> artifical time bricks and <b>32 undecillion</b> bricks.</>Worth <b>450,000</b> cosmic knowledge.
     cost:1.243658e49 tesseractDamage, 4.6464646e49 totalmoney, 1 wallRequirement
   on earn:
     gain 3.2e37 bricks
@@ -1641,7 +1641,7 @@ Buildings
   name:Destroy a High Rank Infinity Wall
   req:1 destroyInfWall02
   *destroyInfWall04
-    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>60</b> Alpha bricks, <b>12</b> Fifth Dimension bricks, <b>128,000</b> artifical space bricks, <b>35,000</b> artifical time bricks and <b>400 undecillion</b> bricks.<br>Worth <b>550,000</b> cosmic knowledge."
+    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>60</b> Alpha bricks, <b>12</b> Fifth Dimension bricks, <b>128,000</b> artifical space bricks, <b>35,000</b> artifical time bricks and <b>400 undecillion</b> bricks.</>Worth <b>550,000</b> cosmic knowledge.
     cost:1e50 tesseractDamage, 3.333e50 totalmoney, 1 wallRequirement
   on earn:
     gain 4e38 bricks
@@ -1659,7 +1659,7 @@ Buildings
   name:Destroy a Elite Infinity Wall
   req:1 destroyInfWall03
   *destroyInfWall05
-    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>80</b> Alpha bricks, <b>16</b> Fifth Dimension bricks, <b>320,000</b> artifical space bricks, <b>80,000</b> artifical time bricks and <b>10 duodecillion</b> bricks.<br>Worth <b>650,000</b> cosmic knowledge."
+    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>80</b> Alpha bricks, <b>16</b> Fifth Dimension bricks, <b>320,000</b> artifical space bricks, <b>80,000</b> artifical time bricks and <b>10 duodecillion</b> bricks.</>Worth <b>650,000</b> cosmic knowledge.
     cost:4.500e50 tesseractDamage, 7.68543e50 totalmoney, 1 wallRequirement
   on earn:
     gain 1e40 bricks
@@ -1677,7 +1677,7 @@ Buildings
   name:Destroy a Temmie Infinity Wall
   req:1 destroyInfWall04
   *destroyInfWall06
-    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>125</b> Alpha bricks, <b>25</b> Fifth Dimension bricks, <b>640,000</b> artifical space bricks, <b>100,000</b> artifical time bricks and <b>60 duodecillion</b> bricks.<br>Worth <b>750,000</b> cosmic knowledge."
+    desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>125</b> Alpha bricks, <b>25</b> Fifth Dimension bricks, <b>640,000</b> artifical space bricks, <b>100,000</b> artifical time bricks and <b>60 duodecillion</b> bricks.</>Worth <b>750,000</b> cosmic knowledge.
     cost:1.87654321234567890e50 tesseractDamage, 3.12742156444444444444e51 totalmoney, 1 wallRequirement
   on earn:
     gain 6e40 bricks
@@ -1695,7 +1695,7 @@ Buildings
   name:Destroy a Important Infinity Wall
   req:1 destroyInfWall05
   *destroyInfWall07
-  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks<br>Gives <b>150</b> Alpha bricks, <b>35</b> Fifth Dimension bricks, <b>750,000</b> artifical space bricks, <b>80,000</b> artifical time bricks and <b>450 duodecillion</b> bricks.<br>Worth <b>1,000,000</b> cosmic knowledge."
+  desc:please excuse me for the lack of a description while I try to rebalance this era. ok thanks</>Gives <b>150</b> Alpha bricks, <b>35</b> Fifth Dimension bricks, <b>750,000</b> artifical space bricks, <b>80,000</b> artifical time bricks and <b>450 duodecillion</b> bricks.</>Worth <b>1,000,000</b> cosmic knowledge.
   cost:3.81174327890e51 tesseractDamage, 9.99999999999999e51 totalmoney, 1 wallRequirement
   on earn:
     gain 4.5e41 bricks
@@ -1715,7 +1715,7 @@ Buildings
 
     // multiversal walls soon
   *omWall
-  desc:The wall holding the omniverse together. How come it is indestructible?<br>When broken, leads you to the <b>true ending</b>, and gives <b>1 omniverse brick</b>."
+  desc:The wall holding the omniverse together. How come it is indestructible?</>When broken, leads you to the <b>true ending</b>, and gives <b>1 omniverse brick</b>.
   cost:1e300 tesseractDamage, 1 wallRequirement
   on earn:
     gain 1000000000 wallsDestroyed
@@ -1729,7 +1729,7 @@ Buildings
   req:1 destroyInfWall07
 
   *brokenWall
-  desc:There is nothing left. It's time to go home."
+  desc:There is nothing left. It's time to go home.
   name:Broken Wall
   req:1 omWall
 
@@ -1978,7 +1978,7 @@ Buildings
   req:have finalWallUnlock
 
   *singularityBuilding
-  desc:Purifier building<br>Does <b>11 quintillion</b> base damage.<br>Gives <b>1</b> base Space Bricks/<b>20</b> days.<br><i>Nothing will be left after this one. Nothing.</i>"
+  desc:Purifier building</>Does <b>11 quintillion</b> base damage.</>Gives <b>1</b> base Space Bricks/<b>20</b> days.<q>Nothing will be left after this one. Nothing.</q><.>Your singularities do <b>[singularityDamage:ps] damage per second</b>.<.>They did <b>[singularityDamage] damage</b> in total.
   cost:150000000000000000000000000 money
   on tick:
     gain 11000000000000000000 money
@@ -1993,7 +1993,7 @@ Buildings
   req:have begginingUpgrade
 
   *edgeBeing
-  desc:Purifier building<br>Does <b>1.2 sextillion</b> base damage.<br><i>Gives <b>1</b> base Time Bricks/<b>50</b> days.<br>Sentient beings of the energy of all realities, living on the edge of the reality.</i>"
+  desc:Purifier building</>Does <b>1.2 sextillion</b> base damage.</>Gives <b>1</b> base Time Bricks/<b>50</b> days.<q>Sentient beings of the energy of all realities, living on the edge of the reality.</q><.>Your Edge Beings do <b>[edgeBeingDamage:ps] damage per second</b>.<.>They did <b>[edgeBeingDamage] damage</b> in total.
   cost:123456789011121314151617181920 money, 50000000000000000 bricks
   on tick:
     gain 1200000000000000000000 money
@@ -2010,7 +2010,7 @@ Buildings
   req:have edgeBeingUnlock
 
   *strangeGlitch
-  desc:Strange building<br>Deals <b>50 septillion</b> base damage.<br><i>For some reason, you find the manipulative property of an oversight to be well worth exploiting. Let's hope this doesn't bite us.</i>"
+  desc:Strange building</>Deals <b>50 septillion</b> base damage.<q>For some reason, you find the manipulative property of an oversight to be well worth exploiting. Let's hope this doesn't bite us.</q><.>Your glitches do <b>[glitchDamage:ps] damage per second</b>.<.>They did <b>[glitchDamage] damage</b> in total.
   cost:1000000000000000000000000000000 money
   on tick:
     gain 50000000000000000000000000 money
@@ -2024,7 +2024,7 @@ Buildings
   req:300 totalWalls
 
   *dreammachine
-  desc:Fanatical building<br>Deals <b>6.75 nonillion</b> base damage.<br>Mines 0.001 base dreamy coins.<br><i>Manipulates minds in dreams to mine Dreamy Coins. Oh, and unleashes the wrath of the unrealistic fantasy.</i>"
+  desc:Fanatical building</>Deals <b>6.75 nonillion</b> base damage.</>Mines 0.001 base dreamy coins.<q>Manipulates minds in dreams to mine Dreamy Coins. Oh, and unleashes the wrath of the unrealistic fantasy.</q><.>Your Dream Machines do <b>[dreamMachineDamage:ps] damage per second</b>.<.>They did <b>[dreamMachineDamage] damage</b> in total.
   cost:1836547290108126144162180198216234252 money
   on tick:
     gain 6750000000000000000000000000000 money
@@ -2057,13 +2057,13 @@ Upgrades
   passive:grant 1 upgradeCounter
 
   *win
-  desc:The shattering of the omniversal wall leaves behind absolutely nothing.<br>
+  desc:The shattering of the omniversal wall leaves behind absolutely nothing.
   name:The End
   icon:https://i.imgur.com/bkEkr5p.png
   req:1 omWall
 
   *fantasyUnlock
-  desc:Everything is <b>50%</b> more efficient. <br><i>Gives access to the fantasy zone.</i> "Nobody told you about this, eh?" "
+  desc:Everything is <b>50%</b> more efficient. </><i>Gives access to the fantasy zone.</i> "Nobody told you about this, eh?
   req:1000 puncher, 950 clubber, 900 swordsman, 850 gunner, 800 grenade, 750 wreckingBall, 700 bulldozer, 700 airstrike, 700 necromancer, 650 giant, 650 demon, 650 compromiser, 500 lastBuilding, 350 singularityBuilding, 250 edgeBeing, 150 strangeGlitch, 650 brickFactory
   req:1e+42 handDamage, 25000000 prestige
   cost:2400000 prePrestige, 2e45 money
@@ -2075,7 +2075,7 @@ Upgrades
   name:The Fantasy Zone
   icon:http://i.imgur.com/nLIn2uJ.png
   *fantasyUpgrade1
-  desc:Everything is <b>10%</b> more efficient.<br><i>"Your mind is full of ideas. Sharing them seems a good idea." ~Ancient Wall Destroyer</i>
+  desc:Everything is <b>10%</b> more efficient.<q>Your mind is full of ideas. Sharing them seems a good idea.</q><i>Ancient Wall Destroyer</i>
   req:11 meshBossPoint, 1 meshBricks
   cost:2400000 prePrestige, 4e45 money
   passive:
@@ -2086,7 +2086,7 @@ Upgrades
   name:Share
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyUpgrade2
-  desc:Everything is <b>0.1%</b> more efficient per Purifier building.<br><i>"Sometimes making the weakest makes others the strongest. The strongest makes weakest the strongest." ~Flying Thought</i>
+  desc:Everything is <b>0.1%</b> more efficient per Purifier building.<q>Sometimes making the weakest makes others the strongest. The strongest makes weakest the strongest.</q><i>Flying Thought</i>
   req:13 meshBossPoint, 1 meshBricks
   cost:2400000 prePrestige, 6e45 money
   passive:
@@ -2099,14 +2099,14 @@ Upgrades
   name:Think
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyUpgrade3
-  desc:Unlocks upgrades that buff buildings; each upgrade buffs everything by 5%, and specific buildings by 2 times. <br><i>"Sometimes parties are nothing compared to knowledge." ~Elder God</i>"
+  desc:Unlocks upgrades that buff buildings; each upgrade buffs everything by 5%, and specific buildings by 2 times. <q>Sometimes parties are nothing compared to knowledge.</q><i>Elder God</i>
   req:15 meshBossPoint, 1 meshBricks
   cost:2400000 prePrestige, 9e45 money
   req:have fantasyUpgrade2
   name:Anthive
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyMelee
-  desc:Melee buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>Now you don't need to worry about bricks falling on your head when you damage the wall.</i>
+  desc:Melee buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>Now you don't need to worry about bricks falling on your head when you damage the wall.</q>
   req:1100 puncher, 1050 clubber, 1000 swordsman
   cost:2400000 prePrestige, 12e45 money
   passive:
@@ -2137,7 +2137,7 @@ Upgrades
   name:Upper Body of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyRanged
-  desc:Ranged buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>Bullets and grenades pass multiple dimensions to pick up maximum (Faster Than Light (RUC™)) speed.</i>
+  desc:Ranged buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>Bullets and grenades pass multiple dimensions to pick up maximum (Faster Than Light (RUC™)) speed.</q>
   req:950 gunner, 900 grenade
   cost:2400000 prePrestige, 17e45 money
   passive:
@@ -2167,7 +2167,7 @@ Upgrades
   name:Lower Body of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyHeavyDuty
-  desc:Heavy duty buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>"Obama would be proud." ~1337 n0sc0p3r #80</i>
+  desc:Heavy duty buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>Obama would be proud.</q><i>1337 n0sc0p3r #80</i>
   req:900 wreckingBall, 850 bulldozer, 800 airstrike
   cost:2400000 prePrestige, 23e45 money
   passive:
@@ -2198,7 +2198,7 @@ Upgrades
   name:Upper Tail of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyMagic
-  desc:Magic and Special buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>"This magic is fantastic!" ~Chief of Puns</i>
+  desc:Magic and Special buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>This magic is fantastic!</q><i>Chief of Puns</i>
   req:750 necromancer, 700 giant, 700 demon, 750 brickFactory
   cost:2400000 prePrestige, 30e45 money
   passive:
@@ -2230,7 +2230,7 @@ Upgrades
   name:Lower Tail of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyDream
-  desc:Dream buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>Sometimes, you just need to lucid dream.</i>"
+  desc:Dream buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>Sometimes, you just need to lucid dream.</q>
   req:700 compromiser, 650 lastBuilding
   cost:2400000 prePrestige, 60e45 money
   passive:
@@ -2260,7 +2260,7 @@ Upgrades
   name:Head of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *fantasyPurifier
-  desc:Purifier buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <br><i>They get ancient purifiers equipped.</i>"
+  desc:Purifier buildings are <b>twice</b> as efficient, everything else is <b>5%</b> more efficient. <q>They get ancient purifiers equipped.</q>
   req:600 singularityBuilding, 500 edgeBeing
   cost:2400000 prePrestige, 150e45 money
   passive:
@@ -2290,26 +2290,26 @@ Upgrades
   name:Face of The Fantasy
   icon:http://i.imgur.com/sTHIUtK.png
   *shapeUnlock
-  desc:Unlocks shapes. <br><i>Obviously enough, these are not the regular shapes.</i>"
+  desc:Unlocks shapes. <q>Obviously enough, these are not the regular shapes.</q>
   req:50 alphaBricks
   cost:100 alphaBricks
   name:Infinite Dimension Mining
   icon:http://i.imgur.com/RBPdGKQ.png
   *shape1
-  desc:Unlocks the time tree. <br><i>Bend, stretch and surpass the limits of the times.</i>"
+  desc:Unlocks the time tree. <q>Bend, stretch and surpass the limits of the times.</q>
   cost:100 alphaBricks
   name:X Axis Beam Polytope
   req:have shapeUnlock
   icon:http://i.imgur.com/twC6mj5.png
   *shape2
-  desc:Brick factories are 2.5 times more efficient per mesh brick. <br><i>Mesh bricks.</i>"
+  desc:Brick factories are 2.5 times more efficient per mesh brick. <q>Mesh bricks.</q>
   cost:100 alphaBricks
   name:Y Axis Beam Polytope
   passive:multiply yield of brickFactory by (1 + (2.5 * meshSpendable))
   req:have shapeUnlock
   icon:http://i.imgur.com/ceKBGvj.png
   *shape3
-  desc:Everything is <b>20%</b> as efficient. While it doesn't appear to have much power, it is still profound in the fundamental assembly of the shape."
+  desc:Everything is <b>20%</b> as efficient. While it doesn't appear to have much power, it is still profound in the fundamental assembly of the shape.
   cost:100 alphaBricks
   passive:
     multiply yield of tag:building by 1.2
@@ -2319,7 +2319,7 @@ Upgrades
   name:Z Axis Beam Polytope
   icon:http://i.imgur.com/qDqKLB9.png
   *shape4
-  desc:Make the big bang reoccur. Although it is far away from anything, you can feel the might of unraveling universes crawling and expanding. Everything is <b>0.2%</b> more efficient per 100 minutes since reset.<br><i>Two expanding universes is better than one.</i>"
+  desc:Make the big bang reoccur. Although it is far away from anything, you can feel the might of unraveling universes crawling and expanding. Everything is <b>0.2%</b> more efficient per 100 minutes since reset.<q>Two expanding universes is better than one.</q>
   cost:150 alphaBricks
   passive:
     multiply yield of tag:building by (1 + (0.00002 * timeSinceReset))
@@ -2329,7 +2329,7 @@ Upgrades
   name:W Axis Beam Polytope
   icon:http://i.imgur.com/VJEVXH7.png
   *timeTree
-  desc:Allow to speed up, slow down, and do anything you want with the time. Everything is <b>0.3%</b> more efficient per 100 minutes since reset.<br><i>It is believed you need to spend an eternity for it to grow into its mature form. Oh, and I almost forgot: an ounce of sacred space sap.</i>"
+  desc:Allow to speed up, slow down, and do anything you want with the time. Everything is <b>0.3%</b> more efficient per 100 minutes since reset.<q>It is believed you need to spend an eternity for it to grow into its mature form. Oh, and I almost forgot: an ounce of sacred space sap.</q>
   cost:250 alphabricks, 50 fifthBricks
   passive:
     multiply yield of tag:building by (1 + (0.00003 * timeSinceReset))
@@ -2386,7 +2386,7 @@ Upgrades
   req:1 destroyMassiveWall
   
   *damageConvUnlock
-  desc:Unlocks the ability to convert 4th Dimension / Tesseract damage to cosmic knowledge, at the rate of 1 duotrigintillion to 1.<br>Scientists say no man should ever touch this forbidden weapon of technology, lest you want to discover the end of everything so soon. To break the Omniversal Wall would normally take millennia; with a single touch full of condensed tesseracted power, everything will be annihilated. For you to use the ████████████ now will allow you to reach far enough through PRESTIGE_HACKING. If it's not worth ending the existence of the walls, you would've stopped a long time ago, but the decision lies before you now. <b>Proceed at your own peril.</b>
+  desc:Unlocks the ability to convert 4th Dimension / Tesseract damage to cosmic knowledge, at the rate of 1 duotrigintillion to 1.</>Scientists say no man should ever touch this forbidden weapon of technology, lest you want to discover the end of everything so soon. To break the Omniversal Wall would normally take millennia; with a single touch full of condensed tesseracted power, everything will be annihilated. For you to use the ████████████ now will allow you to reach far enough through PRESTIGE_HACKING. If it's not worth ending the existence of the walls, you would've stopped a long time ago, but the decision lies before you now. <b>Proceed at your own peril.</b>
   cost:1e100 money
   req:1 winBricks
   name:Prestige Hacker
@@ -2400,13 +2400,13 @@ Upgrades
   req:1 destroyFinalWall
 
   *begginingUpgrade
-  desc:Unlocks the ultimate power. <b>In particular, the Singularity.</b><br><i>Not the ordinary chess we will be playing tonight.</i>"
+  desc:Unlocks the ultimate power. <b>In particular, the Singularity.</b><q>Not the ordinary chess we will be playing tonight.</q>
   cost:10 timeBricks, 5e26 money
   name:Play Chess
   icon:http://i.imgur.com/JJCV9QM.png
 
   *edgeBeingUnlock
-  desc:Summon infinite-dimensional beings that use energy from extinguished universes. <b>Unlocks the Edge Being.</b><br><i>GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}</i>"
+  desc:Summon infinite-dimensional beings that use energy from extinguished universes. <b>Unlocks the Edge Being.</b><q>GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}</q>
   cost:4 endBricks, 4e29 money
   name:リサフランクXXYYXX //現代のコンピュー
   icon:http://i.imgur.com/oV8GJqX.png
@@ -2718,7 +2718,7 @@ Upgrades
   name:Ghosting
   icon:http://i.imgur.com/M4T5Aol.png
   *timeUpgradeSingulari
-  desc:Singularity is <b>0.02%</b> more efficient <b>per 100 minutes since reset.</b><br><i>Humanity did something good for once.</i>
+  desc:Singularity is <b>0.02%</b> more efficient <b>per 100 minutes since reset.</b><q>Humanity did something good for once.</q>
   cost:30 timeBricks
   req:have 1 timeUpgradeRes12
   req:have 1 singularityBuilding
@@ -2818,7 +2818,7 @@ Upgrades
   icon:http://i.imgur.com/zq20OLd.png
 
   *timeUpgrade22
-  desc:Purifier buildings are <b>20%</b> more efficient <b>per random bonus dream point</b>, which the demons have a 1/20,000 chance of giving you every second, no matter how many you have.<br><i>#6 Would be proud</i>
+  desc:Purifier buildings are <b>20%</b> more efficient <b>per random bonus dream point</b>, which the demons have a 1/20,000 chance of giving you every second, no matter how many you have.<q>#6 Would be proud</q>
   cost: 1000 timeBricks, 9.8979695949392919e39 money
   req:have 1 timeUpgradeRes22
   req:have 4 timesActuallyWon
@@ -2856,7 +2856,7 @@ Upgrades
   icon:http://i.imgur.com/5aqM5G5.png
 
   *specialBrickBonus3
-  desc:Everything is <b>1.25%</b> more efficient per <b>Alpha brick</b> and <b>2%</b> per <b>Fifth Dimension brick</b>.<br><i>Playing with the meta does you a favor. Lots of favors.</i>
+  desc:Everything is <b>1.25%</b> more efficient per <b>Alpha brick</b> and <b>2%</b> per <b>Fifth Dimension brick</b>.<q>Playing with the meta does you a favor. Lots of favors.</q>
   cost:1e44 bricks, 1e42 money
   req:15 timesActuallyWon
   req:1 winBricks
@@ -3096,7 +3096,7 @@ Upgrades
   icon:http://i.imgur.com/skLNAG0.png
 
   *meshScroll1
-  desc:Everything is <b>+5%</b> more efficient if you have Pure brick.<br><i>*It's a mirror, and in the mirror you see yourself.*</i>"
+  desc:Everything is <b>+5%</b> more efficient if you have Pure brick.<q>*It's a mirror, and in the mirror you see yourself.*</q>
   cost:1.2e40 money, 1000000000000 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:4 timesActuallyWon, 1 winBricks, 1 meshBossPoint, 1 meshBricks
   passive:
@@ -3109,7 +3109,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll2
-  desc:Everything is <b>+10%</b> more efficient.<br><i>"Our civilization is in danger, send help! Albert! Tell my wife I love he- *the text is missing*"</i>"
+  desc:Everything is <b>+10%</b> more efficient.<q>Our civilization is in danger, send help! Albert! Tell my wife I love he- *the text is missing*</q>
   cost:1.22e42 money, 2000000000000 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:5 meshBossPoint, 1 meshBricks
   passive:
@@ -3120,7 +3120,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll3
-  desc:Everything is <b>+10%</b> more efficient.<br><i>*It's a blueprint of a refrigerator.*</i>"
+  desc:Everything is <b>+10%</b> more efficient.<q>*It's a blueprint of a refrigerator.*</q>
   cost:9.66e42 money, 500e12 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:6 meshBossPoint, 1 meshBricks
   passive:
@@ -3131,7 +3131,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll4
-  desc:Everything is <b>+10%</b> more efficient.<br><i>*It marks where a lot of extraterrestial paintings are hidden..*</i>"
+  desc:Everything is <b>+10%</b> more efficient.<q>*It marks where a lot of extraterrestial paintings are hidden..*</q>
   cost:14.557e42 money, 1.5e15 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:7 meshBossPoint, 1 meshBricks
   passive:
@@ -3142,7 +3142,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll5
-  desc:Everything is <b>+10%</b> more efficient.<br><i>"The black hole is stretching our planet apart; only a few minutes remain till our last second. Then, nobody can save us."</i>"
+  desc:Everything is <b>+10%</b> more efficient.<q>The black hole is stretching our planet apart; only a few minutes remain till our last second. Then, nobody can save us.</q>
   cost:22.778e42 money, 2e15 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:8 meshBossPoint, 1 meshBricks
   passive:
@@ -3153,7 +3153,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll6
-  desc:Everything is <b>+10%</b> more efficient.<br><i>"It's really hard to create a comfortable home in this near-perfect vacuum area. Our family is starving, yet all we have is Adamantium which is impossible to melt or eat. We are sending this message hoping that we will receive anything. Kindest regards. - Humanity, 151441 AD"</i>"
+  desc:Everything is <b>+10%</b> more efficient.<q>It's really hard to create a comfortable home in this near-perfect vacuum area. Our family is starving, yet all we have is Adamantium which is impossible to melt or eat. We are sending this message hoping that we will receive anything. Kindest regards. - Humanity, 151441 AD"</q>
   cost:35.010e42 money, 2.5e15 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:8 meshBossPoint, 1 meshBricks
   passive:
@@ -3164,7 +3164,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *meshScroll7
-  desc:Damage and Brick production is <b>+10%</b> more efficient<br><i>*It's an empty piece of paper with a marker attached to it. What significance is this?*</i>"
+  desc:Damage and Brick production is <b>+10%</b> more efficient<q>*It's an empty piece of paper with a marker attached to it. What significance is this?*</q>
   cost:51.997e42 money, 3e15 artSpaceBricks, 1 meshSpendable, 8 winSpendable, 1053 endBricks
   req:8 meshBossPoint, 1 meshBricks
   passive:
@@ -3175,7 +3175,7 @@ Upgrades
   icon:http://i.imgur.com/ZmJ8hqf.png
  
   *classifUpgrade1
-  desc:Dream buildings are <b>+0.1%</b> as efficient per Singularity.<br><q>Thanks to the knowledge we got from mesh bricks, we finally are able to do some morale raising.</q>
+  desc:Dream buildings are <b>+0.1%</b> as efficient per Singularity.<q>Thanks to the knowledge we got from mesh bricks, we finally are able to do some morale raising.</q>
   cost:1e42 money, 20e12 artSpaceBricks, 1 meshSpendable, 8 winSpendable
   req:4 timesActuallyWon, 1 winBricks, 2 meshBossPoint, 1 meshBricks
   passive:
@@ -3186,7 +3186,7 @@ Upgrades
   icon:http://i.imgur.com/bkEkr5p.png
  
   *classifUpgrade2
-  desc:Melee buildings are <b>+1%</b> as efficient per Singularity.<br><i>Punch, Club, Slice.</i>"
+  desc:Melee buildings are <b>+1%</b> as efficient per Singularity.<q>Punch, Club, Slice.</q>
   cost:1e42 money, 180e12 artSpaceBricks, 1 meshSpendable, 8 winSpendable
   req:6 timesActuallyWon, 1 winBricks, 3 meshBossPoint, 1 meshBricks
   passive:
@@ -3198,7 +3198,7 @@ Upgrades
   icon:http://i.imgur.com/bkEkr5p.png
  
   *classifUpgrade3
-  desc:Singularities and Dream buildings gain <b>+1%</b> boost per finality brick.<br><i>Not school finals or something.</i>"
+  desc:Singularities and Dream buildings gain <b>+1%</b> boost per finality brick.<q>Not school finals or something.</q>
   cost:1e42 money, 980e12 artSpaceBricks, 1 meshSpendable, 8 winSpendable
   req:9 timesActuallyWon, 1 winBricks, 4 meshBossPoint, 1 meshBricks
   passive:
@@ -3350,7 +3350,7 @@ Upgrades
   name:Army Time Bear Ward
   icon:http://i.imgur.com/zZ9wpYI.png
   *timeBearWard15
-  desc:Everything is <b>12%</b> more efficient.<br><i>These are the tools made out of the Time Bear's skin; this will totally come in handy.</i>"
+  desc:Everything is <b>12%</b> more efficient.<q>These are the tools made out of the Time Bear's skin; this will totally come in handy.</q>
   cost:9876543210123456789000000 fourthWallMatter, 987654321012345678900000000 bricks
   req:14000000 prestige, 14 resetTimes
   passive:
@@ -3360,7 +3360,7 @@ Upgrades
   name:End Time Bear Ward
   icon:http://i.imgur.com/iUzNWak.png
   *timeBearWard16
-  desc:Everything is <b>12.5%</b> more efficient.<br><i>We beat the Time Bear. We are unstoppable. We are one. We are many.</i>"
+  desc:Everything is <b>12.5%</b> more efficient.<q>We beat the Time Bear. We are unstoppable. We are one. We are many.</q>
   cost:987654321012345678900000000 fourthWallMatter, 98765432101234567890000000000 bricks
   req:18000000 prestige, 15 resetTimes
   passive:
@@ -3371,7 +3371,7 @@ Upgrades
   icon:http://i.imgur.com/eayVgaW.png
     
   *victoryPointUpgrade1
-  desc:Almost every single wall gives <b>twice</b> as many rewards when destroyed. Walls that aren't affected: Boss Finality Wall<br><i>To turn the wall into pure gold so we get more money when we break it.</i><br>"
+  desc:Almost every single wall gives <b>twice</b> as many rewards when destroyed. Walls that aren't affected: Boss Finality Wall</><i>To turn the wall into pure gold so we get more money when we break it.</i>
   cost:1e36 money, 1e33 fourthwallmatter, 1e7 artspacebricks, 1e6 arttimebricks
   req:300 singularityBuilding, 300 edgeBeing, 250 strangeGlitch
   req:1 timesActuallyWon
@@ -3383,7 +3383,7 @@ Upgrades
   icon:http://i.imgur.com/PKwvYiL.png
     
   *victoryPointUpgrade2
-  desc:Everything is <b>50%</b> more efficient. <b>Unlocks... Dreamy Coins?</b><br><i>We accidentally were able to reach inside people's dreams. It looks like we could mine from them, a mysterious resource called Dreamy Coins. Sounds original, right? RIGHT??? </b>"
+  desc:Everything is <b>50%</b> more efficient. <b>Unlocks... Dreamy Coins?</b></><i>We accidentally were able to reach inside people's dreams. It looks like we could mine from them, a mysterious resource called Dreamy Coins. Sounds original, right? RIGHT??? </b>
   cost:4.242424242e39 money, 4.2424242e36 fourthwallmatter, 6.4646464e8 artspacebricks, 5.2525252e8 arttimebricks
   req:4 timesActuallyWon
   passive:
@@ -3404,7 +3404,7 @@ Upgrades
   req:1 destroyWall
    
   *wallMultiplier2
-  desc:Everything is <b>1%</b> more efficient for each wall you've destroyed.<br><i>We lose memory each time we reset. With this new advanced technology we can upload our brains into the web.</i>"
+  desc:Everything is <b>1%</b> more efficient for each wall you've destroyed.<q>We lose memory each time we reset. With this new advanced technology we can upload our brains into the web.</q>
   cost:2.54321e33 money
   req:20 resetTimes, 2 timesActuallyWon
   passive:
@@ -3566,7 +3566,7 @@ Upgrades
   name:The Guide To Furthering Progress
   icon:http://i.imgur.com/WBts5e6.png
   *productionMultEnd
-  desc:Everything is <b>35%</b> more efficient.<br><i>The <b>Black</b> Time bear, last of its kind in the freedom, if we fuse it with Black Obliterators... Some matter of elderich combinations...</i>"
+  desc:Everything is <b>35%</b> more efficient.<q>The <b>Black</b> Time bear, last of its kind in the freedom, if we fuse it with Black Obliterators... Some matter of elderich combinations...</q>
   cost:2.2e38 money
   req:2 timesActuallyWon, 1 winBricks, 1 meshBossPoint
   passive:
@@ -3596,7 +3596,7 @@ Upgrades
   name:God's Blessing
   icon:http://i.imgur.com/AXc3JzP.png
   *productionMult11
-  desc:Everything is <b>50%</b> more efficient.<br><i>"Resurrected through Reality Code, they know a great deal about the Black and the Time Bear.</i>"
+  desc:Everything is <b>50%</b> more efficient.<q>Resurrected through Reality Code, they know a great deal about the Black and the Time Bear.</q>
   cost:4.2e40 money
   req:4 meshBossPoint, 1 meshBricks
   passive:
@@ -3906,7 +3906,7 @@ Upgrades
   icon:http://i.imgur.com/pFyHQUx.png
 
   *handSingulariUpgrade
-  desc:Hand punches do <b>0.25%</b> more damage per Singularity.<br><i>Your hands are now heavy as mass of the universe, but it doesnt collapse, thanks quantum fluctuations!</i>"
+  desc:Hand punches do <b>0.25%</b> more damage per Singularity.<q>Your hands are now heavy as mass of the universe, but it doesnt collapse, thanks quantum fluctuations!</q>
   cost:1500000000000000000000000000 money, 100000 artSpaceBricks
   passive:multiply yield of hitWall by (1 + (0.0025 * singularityBuilding))
   req:50 singularityBuilding
@@ -3914,7 +3914,7 @@ Upgrades
   icon:http://i.imgur.com/35Ekwfh.png
 
   *handEdgeBeingUpgrade
-  desc:Hand punches do <b>0.25%</b> more damage per Edge being.<br><i>Edgy like a 5-cell, tetrahedron, triangle and line at the same time</i>"
+  desc:Hand punches do <b>0.25%</b> more damage per Edge being.<q>Edgy like a 5-cell, tetrahedron, triangle and line at the same time</q>
   cost:75000000000000000000000000000000 money, 10000 artTimeBricks
   passive:multiply yield of hitWall by (1 + (0.0025 * edgeBeing))
   req:50 edgeBeing
@@ -3922,7 +3922,7 @@ Upgrades
   icon:http://i.imgur.com/YREu98L.png
 
   *handGlitchUpgrade
-  desc:<b>Illegal Mesh Scroll:</b> Hand punches deal <b>0.19%</b> more damage per glitch.<br><i>Hopefully not the W.D. Gaster hands, whoever "he" is..</i>"
+  desc:<b>Illegal Mesh Scroll:</b> Hand punches deal <b>0.19%</b> more damage per glitch.<q>Hopefully not the W.D. Gaster hands, whoever "he" is..</q>
   cost:2.62144e40 money, 131072 artSpaceBricks, 16384 artTimeBricks
   req:50 strangeGlitch
   passive:multiply yield of hitWall by (1 + (0.0019 * strangeGlitch))
@@ -4010,14 +4010,14 @@ Upgrades
   name:Omnimagic
   icon:http://i.imgur.com/IDv4G9r.png
   *handBrickUpgrade10
-  desc:Manual brick creation creates <b>six times</b> as many bricks.<br><i>He can break through the wall of course.</i>"
+  desc:Manual brick creation creates <b>six times</b> as many bricks.<q>He can break through the wall of course.</q>
   cost:3777777777777777777777777777777777 money, 10000000000000000000000 bricks
   req:10000000000000000000000 handBricks
   passive:multiply yield of makeBricks by 6
   name:Fists Of Kool-Aid Man
   icon:http://i.imgur.com/KCdcX5m.png
   *handBrickUpgrade11
-  desc:Manual brick creation creates <b>six times</b> as many bricks.<br><i>Right from the destroyed walls!</i>"
+  desc:Manual brick creation creates <b>six times</b> as many bricks.<q>Right from the destroyed walls!</q>
   cost:3777777777777777777777777777777777777 money, 10000000000000000000000000 bricks, 1053 endBricks
   req:10000000000000000000000 handBricks
   passive:multiply yield of makeBricks by 6
@@ -4267,7 +4267,7 @@ Upgrades
   name:The Million
   icon:http://i.imgur.com/PhxmHqr.png
   *puncherUpgrade13
-  desc:Punchers do <b>four times</b> as much damage.<br>Hand punches do <b>twice</b> as much damage.<br><q>The Hidden Gloves, Knuckles and other nice old stuff lie in the chest.</q>
+  desc:Punchers do <b>four times</b> as much damage.</>Hand punches do <b>twice</b> as much damage.<q>The Hidden Gloves, Knuckles and other nice old stuff lie in the chest.</q>
   cost:2e39 money
   req:900 puncher
   passive:
@@ -4287,7 +4287,7 @@ Upgrades
   name:Finality Rock Knuckles
   icon:http://i.imgur.com/TRuR1pM.png
   *puncherUpgrade15
-  desc:Punchers do <b>four times</b> as much damage.<br>Hand punches do <b>thrice</b> as much damage.<br><q>After searching for something to mess up the walls even more we came across a really big floating island, after thousands of unsuccessful tries trying to climb it we found a tiny hut and inside of time two chests and a note: "There's a snake in a one chest and a treasure in another, pick wisely!" we picked first one hoping it wasn't a snake, although there was a snake but treasure inside too, we took a peek at another chest, it was empty.</q>
+  desc:Punchers do <b>four times</b> as much damage.</>Hand punches do <b>thrice</b> as much damage.<q>After searching for something to mess up the walls even more we came across a really big floating island, after thousands of unsuccessful tries trying to climb it we found a tiny hut and inside of time two chests and a note: "There's a snake in a one chest and a treasure in another, pick wisely!" we picked first one hoping it wasn't a snake, although there was a snake but treasure inside too, we took a peek at another chest, it was empty.</q>
   cost:50e45 money
   req:1100 puncher
   passive:
@@ -4348,7 +4348,7 @@ Upgrades
   name:Chess Knuckles
   icon:http://i.imgur.com/wy0NkCV.png
   *puncherO4WallUpgrade
-  desc:Punchers do <b>four times</b> as much damage.<br>Hand punches deal <b>2.5 times</b> more damage.<q>A copy exists.</q>
+  desc:Punchers do <b>four times</b> as much damage.</>Hand punches deal <b>2.5 times</b> more damage.<q>A copy exists.</q>
   cost:5e36 money, 4e22 fourthWallMatter, 1e25 bricks
   req:900 puncher
   passive:
@@ -5143,7 +5143,7 @@ Upgrades
   name:Black-Absorbed Balls
   icon:http://i.imgur.com/2yFjtIa.png
   *wreckUpgradeArmy
-  desc:Wrecking balls do <b>five times</b> as much damage.<br><i>"One of the reality codes in the Forgotten Floor creates higher dimensional wrecking balls, and somehow also stabilizes it so it doesn't immediately destroy everything ever. This is EXTREMELY dangerous."<br>"I call using it first" ~Agent Johnson</i>"
+  desc:Wrecking balls do <b>five times</b> as much damage.<q>One of the reality codes in the Forgotten Floor creates higher dimensional wrecking balls, and somehow also stabilizes it so it doesn't immediately destroy everything ever. This is EXTREMELY dangerous."</>"I call using it first</q><i>Agent Johnson</i>
   cost:480004800048000480004800048000480480004800048 money, 48000480004800048000480004800 bricks
   req:800 wreckingBall
   passive:multiply yield of wreckingBall by 5
@@ -5343,7 +5343,7 @@ Upgrades
   name:Black-Enhanced Blades
   icon:http://i.imgur.com/sfXVHT6.png
   *bulldozerUpgradeArmy
-  desc:Bulldozers do <b>five times</b> as much damage.<br><i>"I am immortal; I am eternal; I am destruction" ~Bulldozer<br>"I would be scared of it if I weren't annoyed of it saying the same thing over and over" -Agent Carter</i>"
+  desc:Bulldozers do <b>five times</b> as much damage.<q>I am immortal; I am eternal; I am destruction</q><i>Bulldozer</i><q>I would be scared of it if I weren't annoyed of it saying the same thing over and over</q><i>Agent Carter</i>
   cost:72000720007200072000720007200072000720007200072 money, 7200072000720007200072000720 bricks
   req:800 bulldozer
   passive:multiply yield of bulldozer by 5
@@ -5472,7 +5472,7 @@ Upgrades
   name:Black-Merged Anvils
   icon:http://i.imgur.com/YqEx6Xx.png
   *airstrikeUpgradeArmy
-  desc:Airstrikes do <b>five times</b> as much damage.<br><i>"This reality code found in the Forgotten Floor lets us drop entire galaxies onto the wall. Are we going to evacuate and find new planets for all the entities and beings that we are about to use their galaxy to destroy a wall?"<br>"HAHAHAHAHA" -Head of RUC</i>"
+  desc:Airstrikes do <b>five times</b> as much damage.<q>This reality code found in the Forgotten Floor lets us drop entire galaxies onto the wall. Are we going to evacuate and find new planets for all the entities and beings that we are about to use their galaxy to destroy a wall?</>HAHAHAHAHA</q><i>Head of RUC</i>
   cost:3.000300030003000e+40 money, 30003000300030003000300030003 bricks
   req:800 airstrike
   passive:multiply yield of airstrike by 5
@@ -5836,7 +5836,7 @@ Upgrades
   name:King Optuqui
   icon:http://i.imgur.com/eJI7yUF.png
   *necromanceTitanUp7
-  desc:Necromancers do <b>0.5%</b> more damage per titan.<br>Titans do <b>0.4%</b> more damage per necromancer.<br><i>No words.</i>"
+  desc:Necromancers do <b>0.5%</b> more damage per titan.</>Titans do <b>0.4%</b> more damage per necromancer.<q>No words.</q>
   cost:4777777777777777777777777777777777 money, 4777777777777777777777 bricks
   passive:
     multiply yield of necromancer by (1 + (0.005 * giant))
@@ -5924,7 +5924,7 @@ Upgrades
   name:Hyzem's Artifact Vault
   icon:http://i.imgur.com/msrmpyh.png
   *demonUpgrade12
-  desc:Demons do <b>seven times</b> as much damage.<br><i>"Deep into the hell, we dig through circles. The first on  desc:<br>"Shut up." ~Agent Johnson</i>"
+  desc:Demons do <b>seven times</b> as much damage.<q>Deep into the hell, we dig through circles. The first on  -</>Shut up.</q><i>Agent Johnson</i>
   cost:333333333333333333333333333333333 bricks
   req:700 demon
   passive:multiply yield of demon by 7
@@ -6038,7 +6038,7 @@ Upgrades
   name:The Divine Instructions
   icon:http://i.imgur.com/KkLNQv0.png
   *compromiseUpgrade12
-  desc:Reality compromisers do <b>six times</b> as much damage.<br><i>The same white people. that damage the wal-</i>"
+  desc:Reality compromisers do <b>six times</b> as much damage.<q>The same white people. that damage the wal-</q>
   cost:5005050550505505050050500505005055505050550 money, 10000000000000000000000000000 fourthWallMatter
   req:700 compromiser
   passive:multiply yield of compromiser by 6
@@ -6145,7 +6145,7 @@ Upgrades
   name:Black Distributors
   icon:http://i.imgur.com/9ICkBB1.png
   *lastBuildingUp11
-  desc:Black obliterators do <b>five times</b> as much damage.<br><i>Gravitational lensing included!</i>"
+  desc:Black obliterators do <b>five times</b> as much damage.<q>Gravitational lensing included!</q>
   cost:1.3e+42 money, 1.3e+25 fourthwallmatter
   req:500 lastBuilding
   passive:multiply yield of lastBuilding by 5
@@ -6174,7 +6174,7 @@ Upgrades
   name:Pure Antimatter Robots
   icon:http://i.imgur.com/jvDmXhB.png
   *lastBuildingUpBlack
-  desc:Black obliterators do <b>six times</b> as much damage.<br><i>"Black + Black = White. Now don't question me." ~RUC CEO</i>"
+  desc:Black obliterators do <b>six times</b> as much damage.<q>Black + Black = White. Now don't question me.</q><i>RUC CEO</i>
   cost:208e+42 money, 1.3e+25 fourthwallmatter
   req:600 lastBuilding
   passive:multiply yield of lastBuilding by 6
@@ -6233,21 +6233,21 @@ Upgrades
   icon:http://i.imgur.com/kBznWvd.png
 
   *begginingUpMagic
-  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>After it will consume something, it will always emit gamma-ray burst</i>"
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>After it will consume something, it will always emit gamma-ray burst</q>
   cost:9e+33 money, 100 endBricks
   req:125 singularityBuilding
   passive:multiply yield of singularityBuilding by 2
   name:Magical Singularities
   icon:http://i.imgur.com/VIJqgVJ.png
   *begginingUpMagic2
-  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<br><i>For stronger teeth.</i>"
+  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>For stronger teeth.</q>
   cost:4.5e+36 money, 8 winSpendable
   req:250 singularityBuilding
   passive:multiply yield of singularityBuilding by 3
   name:Teranium Diet
   icon:http://i.imgur.com/ezUitR5.png
   *begginingUpMagic3
-  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<br><i>"That is like too omega." ~Chief of Puns</i>"
+  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>That is like too omega.</q><i>Chief of Puns</i>
   cost:240e+36 money, 1 meshSpendable, 1053 endBricks
   req:350 singularityBuilding
   passive:multiply yield of singularityBuilding by 3
@@ -6255,92 +6255,92 @@ Upgrades
   icon:http://i.imgur.com/mXRDfR5.png
 
   *edgeBeingUpgrade1
-  desc:Edge beings deal <b>50%</b> more damage and generate <b>50%</b> more bricks.<br><i>"Because living on the edge is lonely, obviously." ~RUC CEO</i>"
+  desc:Edge beings deal <b>50%</b> more damage and generate <b>50%</b> more bricks.<q>Because living on the edge is lonely, obviously.</q><i>RUC CEO</i>
   cost:1.234e30 money, 4 endBricks
   req:1 edgeBeing
   passive:multiply yield of edgeBeing by 1.5
   name:Hire friends
   icon:http://i.imgur.com/vigT0yI.png
   *edgeBeingUpgrade2
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>Low poly.</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Low poly.</q>
   cost:9.876e30 money, 5 endBricks
   req:5 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Edgy Katanas
   icon:http://i.imgur.com/XKK3FKS.png
   *edgeBeingUpgrade3
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>"We gave edge beings a wall costume, so they are invisible near other walls. Totally not dangerous!" ~RUC CEO</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>We gave edge beings a wall costume, so they are invisible near other walls. Totally not dangerous!</q><i>>RUC CEO</i>
   cost:789.011e30 money, 7 endBricks
   req:25 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Master of Disguise
   icon:http://i.imgur.com/Ew206fE.png
   *edgeBeingUpgrade4
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>The legendary beast.</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>The legendary beast.</q>
   cost:9.0909e33 money, 9 endBricks
   req:50 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:SCP-169
   icon:http://i.imgur.com/UiYgx6i.png
   *edgeBeingUpgrade5
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>"Extinguish the wise universe for exchange of the ultimate power."</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Extinguish the wise universe for exchange of the ultimate power."</q>
   cost:38.0909e33 money, 15 endBricks
   req:75 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Wise Universe Extinguishing
   icon:http://i.imgur.com/2LLlCuQ.png
   *edgeBeingUpgrade6
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>"gg xd!" ~Warrior25789</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>gg xd!</q><i>Warrior25789</i>
   cost:158.1122e33 money, 75 endBricks
   req:100 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Moistering Cement
   icon:http://i.imgur.com/ym1AQbQ.png
   *edgeBeingUpgrade7
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>6 letters. Heaven.</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>6 letters. Heaven.</q>
   cost:8.888e36 money, 300 endBricks
   req:150 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Trapping To Heaven
   icon:http://i.imgur.com/odk7zpu.png
   *edgeBeingUpgrade8
-  desc:Edge beings deal <b>thrice</b> as much damage and generate <b>thrice</b> as much bricks.<br><i>Because time bricks flow as fast as time.</i>"
+  desc:Edge beings deal <b>thrice</b> as much damage and generate <b>thrice</b> as much bricks.<q>Because time bricks flow as fast as time.</q>
   cost:96.888e36 money, 600 endBricks
   req:200 edgeBeing
   passive:multiply yield of edgeBeing by 3
   name:BrickΞd
   icon:http://i.imgur.com/b2shzj6.png
   *edgeBeingUpgrade10
-  desc:Edge beings deal <b>four</b> as much damage and generate <b>four</b> as much bricks.<br><i>Technology is better than anything else itself.</i>"
+  desc:Edge beings deal <b>four</b> as much damage and generate <b>four</b> as much bricks.<q>Technology is better than anything else itself.</q>
   cost:156.001e39 money, 1000 endBricks
   req:300 edgeBeing
   passive:multiply yield of edgeBeing by 4
   name:Born in The 2814 Generation
   icon:http://i.imgur.com/qfscrvY.png
   *edgeBeingUpgrade11
-  desc:Edge beings deal <b>four</b> as much damage and generate <b>four</b> as much bricks.<br><i>"We took several experiments with the Edge Beings. It turned out very well until they grew to a size up to the Sagittarius A*." ~Scientist #206</i>"
+  desc:Edge beings deal <b>four</b> as much damage and generate <b>four</b> as much bricks.<q>We took several experiments with the Edge Beings. It turned out very well until they grew to a size up to the Sagittarius A*.</q><i>>Scientist #206</i>
   cost:254.003e42 money, 1000 endBricks
   req:400 edgeBeing
   passive:multiply yield of edgeBeing by 4
-  name:[REDACTED] Beings
+  name:|REDACTED| Beings
   icon:http://i.imgur.com/R60jUAD.png
 
   *edgeUpgradeMagic
-  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<br><i>Slice something from more than infinite angle.</i>"
+  desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Slice something from more than infinite angle.</q>
   cost:18e+36 money, 1e24 bricks
   req:125 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Finality Beings
   icon:http://i.imgur.com/5fqSkOk.png
   *edgeUpgradeMagic2
-  desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<br><i>They are mortals too if you didnt realize yet.</i>"
+  desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>They are mortals too if you didnt realize yet.</q>
   cost:9e+39 money, 2e27 bricks
   req:250 edgeBeing
   passive:multiply yield of edgeBeing by 3
   name:Eleventium Plated Armor
   icon:http://i.imgur.com/30AnX00.png
   *edgeUpgradeMagic3
-  desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<br><i>With a katana.</i>"
+  desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>With a katana.</q>
   cost:480e+42 money, 4e30 bricks
   req:350 edgeBeing
   passive:multiply yield of edgeBeing by 3
@@ -6348,7 +6348,7 @@ Upgrades
   icon:http://i.imgur.com/g3jFU02.png
 
   *edgeSingulariUp1
-  desc:Singularities do <b>1%</b> more damage per Edge Being.<br>Edge beings do <b>1%</b> more damage per Singularity.<br><i>"Your imagination is invalid." ~Agent Johnson</i>"
+  desc:Singularities do <b>1%</b> more damage per Edge Being.</>Edge beings do <b>1%</b> more damage per Singularity.<q>Your imagination is invalid.</q><i>Agent Johnson</i>
   cost:27.0909e33 money, 2 winSpendable
   req:50 edgeBeing, 50 singularityBuilding
   passive:
@@ -6358,7 +6358,7 @@ Upgrades
   name:Singularity Beings
   icon:http://i.imgur.com/80qb96W.png
   *edgeSingulariUp2
-  desc:Singularities do <b>0.8%</b> more damage per Edge Being.<br>Edge beings do <b>0.7%</b> more damage per Singularity.<br><i>Now singularities are shaped like klein bottle so it spits directly space bricks, and edge beings transform the bricks into higher dimension - time bricks</i>"
+  desc:Singularities do <b>0.8%</b> more damage per Edge Being.</>Edge beings do <b>0.7%</b> more damage per Singularity.<q>Now singularities are shaped like klein bottle so it spits directly space bricks, and edge beings transform the bricks into higher dimension - time bricks</q>
   cost:472.1133e33 money, 4 winSpendable
   req:100 edgeBeing, 100 singularityBuilding
   passive:
@@ -6368,7 +6368,7 @@ Upgrades
   name:Klein's Beings
   icon:http://i.imgur.com/LFOoeeS.png
   *edgeSingulariUp3
-  desc:Singularities do <b>0.6%</b> more damage per Edge Being.<br>Edge beings do <b>0.5%</b> more damage per Singularity.<br><i>Now it pounds walls into molecular level with this new technique</i>"
+  desc:Singularities do <b>0.6%</b> more damage per Edge Being.</>Edge beings do <b>0.5%</b> more damage per Singularity.<q>Now it pounds walls into molecular level with this new technique</q>
   cost:362.10101010e36 money, 6 winSpendable
   req:200 edgeBeing, 200 singularityBuilding
   passive:
@@ -6378,7 +6378,7 @@ Upgrades
   name:Photon Mesh & Mashup
   icon:http://i.imgur.com/9hIy5b3.png
   *edgeSingulariUp4
-  desc:Singularities do <b>0.5%</b> more damage per Edge Being.<br>Edge beings do <b>0.4%</b> more damage per Singularity.<br><i>Not even existance of the wall will remain.</i>"
+  desc:Singularities do <b>0.5%</b> more damage per Edge Being.</>Edge beings do <b>0.4%</b> more damage per Singularity.<q>Not even existance of the wall will remain.</q>
   cost:605.605e39 money, 8 winSpendable
   req:300 edgeBeing, 300 singularityBuilding
   passive:
@@ -6388,7 +6388,7 @@ Upgrades
   name:Nihilator
   icon:http://i.imgur.com/JsBmeSj.png
   *edgeSingulariUp5
-  desc:Singularities do <b>0.4%</b> more damage per Edge Being.<br>Edge beings do <b>0.3%</b> more damage per Singularity.<br><i>Singularities already make nothing out of the walls, let's make edge beings do the same</i>"
+  desc:Singularities do <b>0.4%</b> more damage per Edge Being.</>Edge beings do <b>0.3%</b> more damage per Singularity.<q>Singularities already make nothing out of the walls, let's make edge beings do the same</q>
   cost:508.019e42 money, 8 winSpendable, 1000000 prePrestige
   req:400 edgeBeing, 400 singularityBuilding
   passive:
@@ -6399,119 +6399,119 @@ Upgrades
   icon:http://i.imgur.com/YPQ4CLG.png
 
   *glitchscroll
-  desc:Glitches are <b>50%</b> more efficient.<br><i>We took an End Scroll, but realized something was messed up with it. With new engineering, now there's no reason not to use them.</i>"
+  desc:Glitches are <b>50%</b> more efficient.<q>We took an End Scroll, but realized something was messed up with it. With new engineering, now there's no reason not to use them.</q>
   cost:5e31 money, 10000 prePrestige
   req:5 strangeGlitch
   passive:multiply yield of strangeGlitch by 1.5
   name:Glitch Scroll I
   icon:http://i.imgur.com/oH8QPgZ.png
   *glitchscroll2
-  desc:Glitches are <b>50%</b> more efficient.<br><i>Another scroll. That's great, isn't it?</i>"
+  desc:Glitches are <b>50%</b> more efficient.<q>Another scroll. That's great, isn't it?</q>
   cost:6.6e32 money, 20000 prePrestige, 1000 spacebricks
   req:10 strangeGlitch
   passive:multiply yield of strangeGlitch by 1.5
   name:Glitch Scroll II
   icon:http://i.imgur.com/q3LakAy.png
   *glitchscroll3
-  desc:Glitches are <b>twice</b> as efficient.<br><i>THIS ISN'T ENOUGH</i>"
+  desc:Glitches are <b>twice</b> as efficient.<q>THIS ISN'T ENOUGH</q>
   cost:7e33 money, 25000 prePrestige, 2000 spacebricks
   req:25 strangeGlitch
   passive:multiply yield of strangeGlitch by 2
   name:Glitch Scroll III
   icon:http://i.imgur.com/q3LakAy.png
   *glitchscroll4
-  desc:Glitches are <b>twice</b> as efficient.<br><i>[B]</i>"
+  desc:Glitches are <b>twice</b> as efficient.<q>|B|</q>
   cost:4.4444e34 money, 30000 prePrestige, 3500 spacebricks
   req:50 strangeGlitch
   passive:multiply yield of strangeGlitch by 2
   name:Glitch Scroll IV
   icon:http://i.imgur.com/q3LakAy.png
   *glitchscroll5
-  desc:Glitches are <b>twice</b> as efficient.<br><i>Oh boy! I can't wait to abuse more glitches!</i>"
+  desc:Glitches are <b>twice</b> as efficient.<q>Oh boy! I can't wait to abuse more glitches!</q>
   cost:2.7878787e35 money, 40000 prePrestige, 5000 spacebricks
   req:75 strangeGlitch
   passive:multiply yield of strangeGlitch by 2
   name:Glitch Scroll V
   icon:http://i.imgur.com/OG0I0gs.png
   *glitchscroll6
-  desc:Glitches are <b>2.5 times</b> as efficient.<br><i>"insert [REDACTED] description here, although the [REDACTED] description is blocked by the government"</i>"
+  desc:Glitches are <b>2.5 times</b> as efficient.<q>insert |REDACTED| description here, although the |REDACTED| description is blocked by the government</q>
   cost:1.234567890e36 money, 66666 prePrestige, 6666 spacebricks
   req:100 strangeGlitch
   passive:multiply yield of strangeGlitch by 2.5
-  name:[REDACTED] Scroll VI
+  name:|REDACTED| Scroll VI
   icon:http://i.imgur.com/OG0I0gs.png
   *glitchscroll7
-  desc:Glitches are <b>2.5 times</b> as efficient.<br><i>Infused with malicious lines of binary.</i>"
+  desc:Glitches are <b>2.5 times</b> as efficient.<q>Infused with malicious lines of binary.</q>
   cost:9.87654545e36 money, 77777 prePrestige, 8000 spacebricks
   req:150 strangeGlitch
   passive:multiply yield of strangeGlitch by 2.5
   name:Glitch Scroll VII
   icon:http://i.imgur.com/OG0I0gs.png
   *glitchscroll8
-  desc:Glitches are <b>2.5 times</b> as efficient.<br><i>Serving the world's computers, since 1981</i>"
+  desc:Glitches are <b>2.5 times</b> as efficient.<q>Serving the world's computers, since 1981</q>
   cost:1e38 money, 100000 prePrestige, 10000 spacebricks, 500 timebricks
   req:200 strangeGlitch
   passive:multiply yield of strangeGlitch by 2.5
   name:MS-DOS
   icon:http://i.imgur.com/Gtg8P7F.png
   *glitchscroll9
-  desc:Glitches are <b>3 times</b> as efficient.<br><i>These scrolls contain only 1 ounce of evil power. When stacked, it does... something awkward. (EDIT: They're still dangerous)</i>"
+  desc:Glitches are <b>3 times</b> as efficient.<q>These scrolls contain only 1 ounce of evil power. When stacked, it does... something awkward. (EDIT: They're still dangerous)</q>
   cost:2.432e38 money, 125000 prePrestige, 17500 spacebricks, 1000 timebricks
   req:250 strangeGlitch
   passive:multiply yield of strangeGlitch by 3
   name:Danger!
   icon:http://i.imgur.com/skLNAG0.png
   *glitchscroll10
-  desc:Glitches are <b>3 times</b> as efficient.<br><i>Who kept track of these numbers, anyway?</i>"
+  desc:Glitches are <b>3 times</b> as efficient.<q>Who kept track of these numbers, anyway?</q>
   cost:8.55555e38 money, 150000 prePrestige, 20000 spacebricks, 1000 timebricks
   req:300 strangeGlitch
   passive:multiply yield of strangeGlitch by 3
   name:Glitch Scroll VIII
   icon:http://i.imgur.com/skLNAG0.png
   *glitchscroll11
-  desc:Glitches are <b>4 times</b> as efficient.<br><i>That's a weird unlocking pattern, right there.</i>"
+  desc:Glitches are <b>4 times</b> as efficient.<q>That's a weird unlocking pattern, right there.</q>
   cost:1e40 money, 200000 prePrestige, 30000 spacebricks, 1337 timebricks
   req:333 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Glitch Scroll IX
   icon:http://i.imgur.com/skLNAG0.png
   *glitchscroll12
-  desc:Glitches are <b>4 times</b> as efficient.<br><i>These don't consume the other space bricks and time bricks, we found out we'll just use the artifically made ones instead, since they have the same power, when eventually stacked together.</i>"
+  desc:Glitches are <b>4 times</b> as efficient.<q>These don't consume the other space bricks and time bricks, we found out we'll just use the artifically made ones instead, since they have the same power, when eventually stacked together.</q>
   cost:3.14159265e41 money, 250000 prePrestige, 50000 artspacebricks, 30000 arttimebricks
   req:400 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Glitch Node I
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll13
-  desc:Glitches are <b>4 times</b> as efficient. (Glitch Node II)<br><i>New destruction power was made!</i>"
+  desc:Glitches are <b>4 times</b> as efficient. (Glitch Node II)<q>New destruction power was made!</q>
   cost:9e42 money, 300000 prePrestige, 200000 artspacebricks, 50000 arttimebricks
   req:450 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Astonishing Variables
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll14
-  desc:Glitches are <b>4.5 times</b> as efficient. (Glitch Node III)<br><i>It's kind of breaking physics.</i>"
+  desc:Glitches are <b>4.5 times</b> as efficient. (Glitch Node III)<q>It's kind of breaking physics.</q>
   cost:2.5732135e43 money, 400000 prePrestige, 300000 artspacebricks, 70000 arttimebricks
   req:500 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.5
   name:Misplace 
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll15
-  desc:Glitches are <b>4.8 times</b> as efficient. (Glitch Node IV)<br><i>Zero day loopholes in walls are now being used to our advantage... if we controlled them. Don't ask why walls have zero day bugs, it sounds weird.</i>"
+  desc:Glitches are <b>4.8 times</b> as efficient. (Glitch Node IV)<q>Zero day loopholes in walls are now being used to our advantage... if we controlled them. Don't ask why walls have zero day bugs, it sounds weird.</q>
   cost:9.090090009e43 money, 500000 prePrestige, 400000 artspacebricks, 100000 arttimebricks
   req:550 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.8
   name:Present Abuse
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll16
-  desc:// WARNING // DON'T BUY THIS YET, IT'S STILL BUGGED // Glitches are <b>5 times</b> as efficient. Begins a whole new hell."
+  desc:// WARNING // DON'T BUY THIS YET, IT'S STILL BUGGED // Glitches are <b>5 times</b> as efficient. Begins a whole new hell.
   cost:1.66766566e44 money, 10 edgeBeing, 30 singularityBuilding, 50 lastBuilding
   req:600 strangeGlitch
   passive:multiply yield of strangeGlitch by 5
   name:DARKEST NIGHT
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionI
-  desc:Glitches are <b>4 times</b> as efficient, at the cost of every other building only being 98% as efficient. Continues the suppression. <br><i>I thought we knew everything, but based on some leaked information, I guess we don't have enough of it.</i>"
+  desc:Glitches are <b>4 times</b> as efficient, at the cost of every other building only being 98% as efficient. Continues the suppression. <q>I thought we knew everything, but based on some leaked information, I guess we don't have enough of it.</q>
   cost:5e44 money, 25000 artspacebricks
   passive:
     multiply yield of strangeGlitch by (4 / 0.98)
@@ -6521,7 +6521,7 @@ Upgrades
   req:have glitchscroll16
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionII
-  desc:Glitches are <b>4 times</b> as efficient, at the cost of manual punching being only 90% as efficient. Continues the suppression. <br><i>"It's affecting almost everything at the moment, we've got to stop it!" ~ No One Said Ever (except you)</i>"
+  desc:Glitches are <b>4 times</b> as efficient, at the cost of manual punching being only 90% as efficient. Continues the suppression. <q>It's affecting almost everything at the moment, we've got to stop it!</q><i>>No One Said Ever (except you)</i>
   cost:9e44 money, 36363 artspacebricks
   passive:
     multiply yield of strangeGlitch by 4
@@ -6531,7 +6531,7 @@ Upgrades
   req:have suppressionI
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionIII
-  desc:Glitches are <b>5.2 times</b> as efficient, at the cost of manual punching being only 80% as efficient. Continues the suppression. <br><i>What is the cost? Why does it matter?</i>"
+  desc:Glitches are <b>5.2 times</b> as efficient, at the cost of manual punching being only 80% as efficient. Continues the suppression. <q>What is the cost? Why does it matter?</q>
   cost:2.550550555e45 money, 72000 artspacebricks
   passive:
     multiply yield of strangeGlitch by 5.2
@@ -6541,7 +6541,7 @@ Upgrades
   req:have suppressionII
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionIV
-  desc:Glitches are <b>5.5 times</b> as efficient, at the cost of manual punching being only 60% as efficient. Continues the suppression. <br><i>Why did we trust them? It affects us humans...</i>"
+  desc:Glitches are <b>5.5 times</b> as efficient, at the cost of manual punching being only 60% as efficient. Continues the suppression. <q>Why did we trust them? It affects us humans...</q>
   cost:1e47 money, 144000 artspacebricks
   passive:
     multiply yield of strangeGlitch by 5.5
@@ -6653,7 +6653,7 @@ Upgrades
   name:The Holy Brick of Vywheir
   icon:http://i.imgur.com/CVVcmHj.png
   *brickFactoryUp12
-  desc:Brick factories and manual brick creation produce <b>six times</b> as many bricks.<br><i>"We accidentally flicked mysterious switch and now we gain tons of bricks." ~BF Worker #2<br>"Its you who did it, moron." ~BF Worker #16</i>"
+  desc:Brick factories and manual brick creation produce <b>six times</b> as many bricks.<q>We accidentally flicked mysterious switch and now we gain tons of bricks.</q><i>>BF Worker #2</i><q>Its you who did it, moron.</q><i>>BF Worker #16</i>
   cost:866666666666666666666666666666666666666666 money
   req:700 brickFactory
   passive:
@@ -6765,7 +6765,7 @@ Upgrades
   name:The Amsora
   icon:http://i.imgur.com/iQAGCUC.png
   *brickFactorDemonUp7
-  desc:Brick factories produce <b>0.5%</b> more bricks per demon.<br>Demons do <b>0.4%</b> more damage per brick factory.<br><i>"Compared to regular access, premium access gives your demons the ability to go faster than menner to retrieve brick materials, which are processed into actually usable bricks in the factories."</i>"
+  desc:Brick factories produce <b>0.5%</b> more bricks per demon.</>Demons do <b>0.4%</b> more damage per brick factory.<q>Compared to regular access, premium access gives your demons the ability to go faster than menner to retrieve brick materials, which are processed into actually usable bricks in the factories.</q>
   cost:799999999999999999999999999999999999999999 money, 3333333333333333333333333333333 bricks
   passive:
     multiply yield of brickFactory by (1 + (0.005 * demon))
@@ -6877,14 +6877,14 @@ Upgrades
   name:Black Obliterator Trophy
   icon:http://i.imgur.com/FzcxqP2.png
   *buildingTrophy15
-  desc:Singularities do <b>2%</b> more damage per singularity.<br><i>So they get a morale boost per each black hole sucked, right?, because sucking *hic* is not attractive ~Drunk agent Johnson.</i><br> <br>Edge Being Trophy: <b>19,000,000</b> capsules"
+  desc:Singularities do <b>2%</b> more damage per singularity.</><i>So they get a morale boost per each black hole sucked, right?, because sucking *hic* is not attractive ~Drunk agent Johnson.</i></> </>Edge Being Trophy: <b>19,000,000</b> capsules
   cost:1e33 money
   req:12000000 prestige
   passive:multiply yield of singularityBuilding by (1 + (0.02 * singularityBuilding))
   name:Singularity Trophy
   icon:http://i.imgur.com/fKg9vRK.png
   *buildingTrophy16
-  desc:Edge beings do <b>2%</b> more damage per edge being.<br><i>Blame the elder gods for not creating these earlier.</i>"
+  desc:Edge beings do <b>2%</b> more damage per edge being.<q>Blame the elder gods for not creating these earlier.</q>
   cost:1e39 money
   req:19000000 prestige
   passive:multiply yield of edgeBeing by (1 + (0.02 * edgeBeing))
@@ -7132,7 +7132,7 @@ Upgrades
   name:Tellurium Trophy
   icon:http://i.imgur.com/hfmclY6.png
   *trophy25
-  desc:Damage and brick production multipliers <b>+50%</b>, glitch mult <b>+25%</b><br><i>The image of the trophy exists in your dreams.</i>"
+  desc:Damage and brick production multipliers <b>+50%</b>, glitch mult <b>+25%</b><q>The image of the trophy exists in your dreams.</q>
   cost:7.77e38 money, 5.55e26 bricks, 1e25 fourthWallMatter
   req:20000000 prestige, 6 timesActuallyWon
   passive:
@@ -7141,7 +7141,7 @@ Upgrades
   end
   name:Fantasy Trophy
   *trophy26
-  desc:Damage and brick production multipliers <b>+55%</b><br><i>(image pending, seriously - usavictor)</i>"
+  desc:Damage and brick production multipliers <b>+55%</b><q>(image pending, seriously - usavictor)</q>
   cost:1.44e41 money, 2.147483647e27 bricks, 3e25 fourthWallMatter
   req:33333333 prestige, 7 timesActuallyWon
   passive:
@@ -7255,42 +7255,42 @@ Achievements
   icon:http://i.imgur.com/V5T9rJ7.png
   req:1 destroyBonusWall45
   *wallDestroyer12
-  desc:Destroy <b>Mesh Finality Wall</b>.<br><i>*majestic nutshack remix*</i><br>What do you feel?"
+  desc:Destroy <b>Mesh Finality Wall</b>.</><i>*majestic nutshack remix*</i></>What do you feel?
   name:Fluoroantimonic acid
   icon:http://i.imgur.com/O6Pmv2A.png
   req:1 destroyBonusWall48
   *wallDestroyer13
-  desc:Destroy the <b>Ten Walls of Fantasy</b>.<br><i>Welcome to a place beyond your comprehension.</i>"
+  desc:Destroy the <b>Ten Walls of Fantasy</b>.<q>Welcome to a place beyond your comprehension.</q>
   name:End of a Lie
   req:1 destroyFantasyWall10
   icon:http://i.imgur.com/O6Pmv2A.png
   *wallDestroyer14
-  desc:Destroy the <b>Ten Walls of Infinity</b>.<br><i>If Infinity is not enough, what will satisfy you?</i>"
+  desc:Destroy the <b>Ten Walls of Infinity</b>.<q>If Infinity is not enough, what will satisfy you?</q>
   name:Infinite is Finite
   icon:http://i.imgur.com/O6Pmv2A.png
   req:1 destroyInfWall07
   *wallDestroyer15
-  desc:Destroy the <b>Ten Multiversal Walls</b>.<br><i>It's a long road from here to the end of the omniverse!</i>"
+  desc:Destroy the <b>Ten Multiversal Walls</b>.<q>It's a long road from here to the end of the omniverse!</q>
   name:1,000 Light Centuries
   icon:http://i.imgur.com/O6Pmv2A.png
   hidden
   *wallDestroyer16
-  desc:Destroy <b>The Great Seal</b>.<br><i>You didn't have to kill it.</i>"
+  desc:Destroy <b>The Great Seal</b>.<q>You didn't have to kill it.</q>
   name:Seal Breaker
   icon:http://i.imgur.com/O6Pmv2A.png
   hidden
   *wallDestroyer17
-  desc:Destroy the <b>Twelve Walls of the Anti-Realm</b>.<br><i>Even in negation, you don't forget your objective.</i>"
+  desc:Destroy the <b>Twelve Walls of the Anti-Realm</b>.<q>Even in negation, you don't forget your objective.</q>
   name:Microscopic Domain
   icon:http://i.imgur.com/O6Pmv2A.png
   hidden
   *wallDestroyer18
-  desc:Destroy the <b>scattered objects throughout the omniverse</b>.<br><i>Do things seem clear now?</i>"
+  desc:Destroy the <b>scattered objects throughout the omniverse</b>.<q>Do things seem clear now?</q>
   name:Scope to Nothing
   icon:http://i.imgur.com/O6Pmv2A.png
   hidden
   *wallDestroyer19
-  desc:Destroy the <b>Omniversal Wall</b>.<br><i>So it is done.</i>"
+  desc:Destroy the <b>Omniversal Wall</b>.<q>So it is done.</q>
   name:Closure
   icon:http://i.imgur.com/O6Pmv2A.png
   req:1 omWall
@@ -7301,326 +7301,326 @@ Achievements
   req:1 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/LTSmDOx.png
   *wallTellurium2
-  desc:Destroy all the walls <b>5</b> times."
+  desc:Destroy all the walls <b>5</b> times.
   name:Ultimate
   req:4 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/pRgCwIf.png
   *wallTellurium3
-  desc:Destroy all the walls <b>10</b> times."
+  desc:Destroy all the walls <b>10</b> times.
   name:Legendary
   req:9 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium4
-  desc:Destroy all the walls <b>15</b> times."
+  desc:Destroy all the walls <b>15</b> times.
   name:Alpha Beta Gamma Delta Eta Theta Iota
   req:14 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium5
-  desc:Destroy all the walls <b>20</b> times.<br><i>Greek Alphabet - Return, coming soon at the cinemas 154455 AD May 32th</i>"
+  desc:Destroy all the walls <b>20</b> times.<q>Greek Alphabet - Return, coming soon at the cinemas 154455 AD May 32th</q>
   name:Epsilon Tau Phi Chi Psi Pi Sigma Omega
   req:19 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium6
-  desc:Destroy all the walls <b>25</b> times."
+  desc:Destroy all the walls <b>25</b> times.
   name:Nobody Is Asking You To Be So Tryhard
   req:24 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium7
-  desc:Destroy all the walls <b>30</b> times."
+  desc:Destroy all the walls <b>30</b> times.
   name:Reality Calamity
   req:29 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium8
-  desc:Destroy all the walls <b>40</b> times."
+  desc:Destroy all the walls <b>40</b> times.
   name:Blue Screen of Death
   req:39 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium9
-  desc:Destroy all the walls <b>50</b> times."
+  desc:Destroy all the walls <b>50</b> times.
   name:Forgotten_Password.rar
   req:49 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium10
-  desc:Destroy all the walls <b>60</b> times."
+  desc:Destroy all the walls <b>60</b> times.
   name:B:/Folder/Hidden_Reality.rar
   req:59 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium11
-  desc:Destroy all the walls <b>70</b> times."
+  desc:Destroy all the walls <b>70</b> times.
   name:Computer Death
   req:69 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium12
-  desc:Destroy all the walls <b>80</b> times."
+  desc:Destroy all the walls <b>80</b> times.
   name:Nonsense
   req:79 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/jsCyq5a.png
   *wallTellurium13
-  desc:Destroy all the walls <b>90</b> times."
+  desc:Destroy all the walls <b>90</b> times.
   name:Questioning
   req:89 meshBossPoint, 1 meshBricks
   icon:http://i.imgur.com/Gtg8P7F.png
   *wallTellurium14
-  desc:Destroy all the walls <b>100</b> times. <br>Congratulations! I don't know what to tell you.</br>"
+  desc:Destroy all the walls <b>100</b> times. </>Congratulations! I don't know what to tell you.</br>
   name:Centennial
   req:99 meshBossPoint, 1 meshBricks
   icon:https://i.imgur.com/aCU88Ro.png
 
   *moneySpecific01
-  desc:Have all money that exists on earth.<br><i>Which is 5.2 trillion, apparently.<br>May the bad title games begin!</i>"
+  desc:Have all money that exists on earth.<q>Which is 5.2 trillion, apparently.</>May the bad title games begin!</q>
   name:Moneyllionaire
   req:5.2e12 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneySpecific02
-  desc:Have as much money as much as Earth is worth.<br><i>Which is 5 quadrillion, apparently.</i>"
+  desc:Have as much money as much as Earth is worth.<q>Which is 5 quadrillion, apparently.</q>
   name:Earthillion
   req:5e15 money
   icon:http://i.imgur.com/lJ8A4Wn.png
   *moneySpecific03
-  desc:Have as much money as much as PSR J1719-1438 B is worth.<br><i>Which is 26.9 nonillion, apparently.</i>"
+  desc:Have as much money as much as PSR J1719-1438 B is worth.<q>Which is 26.9 nonillion, apparently.</q>
   name:Full Diamond Armor
   req:2.69e31 money
   icon:http://i.imgur.com/ynoLa6v.png
   *moneyAchieve01
-  desc:Gain <b>1 Quadrillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Quadrillion</b> dollars from wall damaging.
   name:Thousa-Million-Millionaire
   req:1e15 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve02
-  desc:Gain <b>1 Quintillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Quintillion</b> dollars from wall damaging.
   name:Millionaire Cubed
   req:1e18 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve03
-  desc:Gain <b>1 Sextillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Sextillion</b> dollars from wall damaging.
   name:Yens yens
   req:1e21 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve04
-  desc:Gain <b>1 Septillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Septillion</b> dollars from wall damaging.
   name:Millionaire Tesseracted
   req:1e24 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve05
-  desc:Gain <b>1 Octillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Octillion</b> dollars from wall damaging.
   name:Market value of Agent Johnson's bad jokes
   req:1e27 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve06
-  desc:Gain <b>1 Nonillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Nonillion</b> dollars from wall damaging.
   name:Nonillionaire
   req:1e30 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve07
-  desc:Gain <b>1 Decillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Decillion</b> dollars from wall damaging.
   name:Thirty-Three
   req:1e33 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve08
-  desc:Gain <b>1 Undecillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Undecillion</b> dollars from wall damaging.
   name:36Illion
   req:1e36 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve09
-  desc:Gain <b>1 Duodecillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Duodecillion</b> dollars from wall damaging.
   name:78/2 Yllion
   req:1e39 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve10
-  desc:Gain <b>1 Tredecillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Tredecillion</b> dollars from wall damaging.
   name:The Day When You Will Stop...
   req:1e42 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve11
-  desc:Gain <b>1 Quattuordecillion</b> dollars from wall damaging."
+  desc:Gain <b>1 Quattuordecillion</b> dollars from wall damaging.
   name:...Will Never Come?
   req:1e45 money
   icon:http://i.imgur.com/lZaWfwJ.png
   *moneyAchieve12
-  desc:Gain <b>1 Quindecillion</b> dollars from wall damaging. Well, maybe not as priceless... as your life."
+  desc:Gain <b>1 Quindecillion</b> dollars from wall damaging. Well, maybe not as priceless... as your life.
   name:Priceless
   req:1e48 money
   icon:http://i.imgur.com/ynoLa6v.png
 
   *fourthDmgAchieve00
-  desc:Have <b>100 Quadrillion</b> Fourth Dimensional damage.<br><i>Boom! It's gone.</i>"
+  desc:Have <b>100 Quadrillion</b> Fourth Dimensional damage.<q>Boom! It's gone.</q>
   req:1e17 tesseractDamage
   name:It's all gone.
   icon:http://i.imgur.com/7zQX9bv.png
   *fourthDmgAchieve01
-  desc:Have <b>100 Quintillion</b> Fourth Dimensional damage.<br><i>Where the fifth dimension at?</i>"
+  desc:Have <b>100 Quintillion</b> Fourth Dimensional damage.<q>Where the fifth dimension at?</q>
   req:1e20 tesseractDamage
   name:Dimensional Crisis
   icon:http://i.imgur.com/DYku895.png
   *fourthDmgAchieve02
-  desc:Have <b>100 Sextillion</b> Fourth dimensional damage.<br><i>Doesn't actually obliterate bricks.</i>"
+  desc:Have <b>100 Sextillion</b> Fourth dimensional damage.<q>Doesn't actually obliterate bricks.</q>
   req:1e23 tesseractDamage
   name:Brick Obliterator
   icon:http://i.imgur.com/9ura7DM.png
   *fourthDmgAchieve03
-  desc:Have <b>100 Septillion</b> Fourth dimensional damage.<br><i>Oh boy, punching walls sure does HURTT.</i>"
+  desc:Have <b>100 Septillion</b> Fourth dimensional damage.<q>Oh boy, punching walls sure does HURTT.</q>
   req:1e26 tesseractDamage
   name:Hurtt
   icon:http://i.imgur.com/jLrZJ3N.png
   *fourthDmgAchieve04
-  desc:Have <b>100 Octillion</b> Fourth dimensional damage.<br><i>We're talking about punchers. Those which can't even fourth dimension.</i>"
+  desc:Have <b>100 Octillion</b> Fourth dimensional damage.<q>We're talking about punchers. Those which can't even fourth dimension.</q>
   req:1e29 tesseractDamage
   name:Underestimated
   icon:http://i.imgur.com/nm7ACjC.png
   *fourthDmgAchieve05
-  desc:Have <b>100 Nonillion</b> Fourth dimensional damage.<br><i>Knock knock?<br>Who's there?<br>Wipe.<br>Wipe who?<br>Wipe yo fucking save.</i>"
+  desc:Have <b>100 Nonillion</b> Fourth dimensional damage.<q>Knock knock?</>Who's there?</>Wipe.</>Wipe who?</>Wipe yo fucking save.</q>
   req:1e32 tesseractDamage
   name:Underestimated
   icon:http://i.imgur.com/QZDKfl0.png
   *fourthDmgAchieve06
-  desc:Have <b>100 Undecillion</b> Fourth dimensional damage.<br><i>True meaning of life.</i>"
+  desc:Have <b>100 Undecillion</b> Fourth dimensional damage.<q>True meaning of life.</q>
   req:1e38 tesseractDamage
   name:The No Life Zone
   icon:http://i.imgur.com/Gtg8P7F.png
   *fourthDmgAchieve07
-  desc:Have <b>100 Tredecillion</b> Fourth dimensional damage."
+  desc:Have <b>100 Tredecillion</b> Fourth dimensional damage.
   req:1e44 tesseractDamage
   name:Giving Up
   icon:http://i.imgur.com/Gtg8P7F.png
   *fourthDmgAchieve08
-  desc:Have <b>100 Quattuordecillion</b> Fourth dimensional damage."
+  desc:Have <b>100 Quattuordecillion</b> Fourth dimensional damage.
   req:1e47 tesseractDamage
   name:BIGG FOOT
   icon:http://i.imgur.com/Gtg8P7F.png
 
   *resetTimesAchieve01
-  desc:Reset the game <b>10</b> times."
+  desc:Reset the game <b>10</b> times.
   req:10 resetTimes
   name:Amalgamite
   icon:http://i.imgur.com/M4T5Aol.png
   *resetTimesAchieve02
-  desc:Reset the game <b>50</b> times."
+  desc:Reset the game <b>50</b> times.
   req:50 resetTimes
   name:Pre-Lemonbread
   icon:http://i.imgur.com/Q6oG66i.png
   *resetTimesAchieve03
-  desc:Reset the game <b>100</b> times."
+  desc:Reset the game <b>100</b> times.
   req:100 resetTimes
   name:True Endogeny
   icon:http://i.imgur.com/agDvwRg.png
   *resetTimesAchieve04
-  desc:Reset the game <b>500</b> times."
+  desc:Reset the game <b>500</b> times.
   req:500 resetTimes
   name:Real Form of Tetrapurplesad
   icon:http://i.imgur.com/VElmg8j.png
 
   *tellIsLameAchieve
-  desc:Play for <b>15 minutes.</b><br><i>These achievements weren't actually coded by Tellurium, because he's a total noob that doesn't recognize real talent.</i>"
+  desc:Play for <b>15 minutes.</b><q>These achievements weren't actually coded by Tellurium, because he's a total noob that doesn't recognize real talent.</q>
   name:Getting Started
   req:15 timePlayed
   icon:http://i.imgur.com/h3ee0tJ.png
   *tellIsLameAchieve2
-  desc:Play for <b>30 minutes.</b> Lunch can also be eaten while playing this game, you know."
+  desc:Play for <b>30 minutes.</b> Lunch can also be eaten while playing this game, you know.
   name:Lunch Break
   req:30 timePlayed
   icon:http://imgur.com/41rYk3A.png
   *tellIsLameAchieve3
-  desc:Play for <b>1 hour.</b> You had fun with that hour, right?"
+  desc:Play for <b>1 hour.</b> You had fun with that hour, right?
   name:The Wasted Hour
   req:60 timePlayed
   icon:http://i.imgur.com/8VwF5Vl.png
   *tellIsLameAchieve4
-  desc:Play for <b>2 hours.</b>"
+  desc:Play for <b>2 hours.</b>
   name:Better Than a Movie
   req:120 timePlayed
   icon:http://imgur.com/vFu3nDx.png
   *tellIsLameAchieve5
-  desc:Play for <b>3 hours.</b>"
+  desc:Play for <b>3 hours.</b>
   name:Casual Player
   req:180 timePlayed
   icon:http://imgur.com/pyQYGnt.png
   *tellIsLameAchieve6
-  desc:Play for <b>6 hours.</b>"
+  desc:Play for <b>6 hours.</b>
   name:Killing Time
   req:360 timePlayed
   icon:http://imgur.com/Oq1fjcB.png
   *tellIsLameAchieve7
-  desc:Play for <b>9 hours.</b>"
+  desc:Play for <b>9 hours.</b>
   name:I Love Idling
   req:540 timePlayed
   icon:http://imgur.com/f7joGQD.png
   *tellIsLameAchieve8
-  desc:Play for <b>12 hours.</b>"
+  desc:Play for <b>12 hours.</b>
   name:Wall Destroyer Fan
   req:720 timePlayed
   icon:http://i.imgur.com/vfxGDiw.png
   *tellIsLameAchieve9
-  desc:Play for <b>18 hours.</b>"
+  desc:Play for <b>18 hours.</b>
   name:Serious Player
   req:1080 timePlayed
   icon:http://imgur.com/Du1OSfD.png
   *tellIsLameAchieve10
-  desc:Play for <b>1 day.</b> Would you trade that for a day of punching real walls in real life?"
+  desc:Play for <b>1 day.</b> Would you trade that for a day of punching real walls in real life?
   name:Another Day Down the Drain
   req:1440 timePlayed
   icon:http://imgur.com/9WXZmxI.png
   *tellIsLameAchieve11
-  desc:Play for <b>3 days.</b> You should take a break."
+  desc:Play for <b>3 days.</b> You should take a break.
   name:Hardcore Player
   req:4320 timePlayed
   icon:http://imgur.com/Cv7FDSP.png
   *tellIsLameAchieve12
-  desc:Play for <b>5 days.</b> Now you probably have an addiction."
+  desc:Play for <b>5 days.</b> Now you probably have an addiction.
   name:Coming Back for More
   req:7200 timePlayed
   icon:http://i.imgur.com/PcY222f.png
   *tellIsLameAchieve13
-  desc:Play for <b>1 week.</b> You can stop soon or right now, if you want. Just don't say I didn't warn you."
+  desc:Play for <b>1 week.</b> You can stop soon or right now, if you want. Just don't say I didn't warn you.
   name:Mark Your Calendars
   req:10080 timePlayed
   icon:http://imgur.com/rz39KsC.png
   *tellIsLameAchieve14
-  desc:Play for <b>2 weeks.</b>"
+  desc:Play for <b>2 weeks.</b>
   name:Completely Addicted
   req:20160 timePlayed
   icon:http://imgur.com/zXhVJaC.png
   *tellIsLameAchieve14a
-  desc:Play for <b>3 weeks.</b>"
+  desc:Play for <b>3 weeks.</b>
   name:No-Life
   req:30240 timePlayed
   icon:http://i.imgur.com/ghiCqU3.png
   *tellIsLameAchieve15
-  desc:Play for <b>4 weeks.</b>"
+  desc:Play for <b>4 weeks.</b>
   name:Best Month Ever
   req:40320 timePlayed
   icon:http://imgur.com/bWRjWlv.png
   *tellIsLameAchieve16
-  desc:Play for <b>6 weeks.</b>They said, once you come in, you can never come out. ...Maybe not."
+  desc:Play for <b>6 weeks.</b>They said, once you come in, you can never come out. ...Maybe not.
   name:No Way Out
   req:60480 timePlayed
   icon:http://i.imgur.com/D1IuKeT.png
   *tellIsLameAchieve17
-  desc:Play for <b>8 weeks.</b>That's about 2 months."
+  desc:Play for <b>8 weeks.</b>That's about 2 months.
   name:Lord Idler
   req:80640 timePlayed
   icon:http://i.imgur.com/qqUiR6b.png
   *tellIsLameAchieve18
-  desc:Play for <b>10 weeks."
+  desc:Play for <b>10 weeks.
   name:X Weeks
   req:100800 timePlayed
   icon:http://i.imgur.com/efrBHOd.png
   *tellIsLameAchieve19
-  desc:Play for <b>15 weeks.</b>"
+  desc:Play for <b>15 weeks.</b>
   name:Hellalot of Time
   req:151200 timePlayed
   icon:http://i.imgur.com/L8h6CHD.png
   *tellIsLameAchieve20
-  desc:Play for <b>half a year</b>. You should've backtracked while you had the chance. For your information, there's 2 time achievements left."
+  desc:Play for <b>half a year</b>. You should've backtracked while you had the chance. For your information, there's 2 time achievements left.
   name:Timeless Tick Tocking
   req:262800 timePlayed
   icon:http://i.imgur.com/YCYFJFn.png
   *tellIsLameAchieve21
-  desc:Play for <b>Two thirds a year</b>. I don't know if the contents made this game was even made to last this long."
+  desc:Play for <b>Two thirds a year</b>. I don't know if the contents made this game was even made to last this long.
   name:T-ioioioioioioio-ck
   req:350400 timePlayed
   icon:http://i.imgur.com/Xrr0euS.png
   *tellIsLameAchieve22
-  desc:Play for <b>a year</b>. Well. Did you win?"
+  desc:Play for <b>a year</b>. Well. Did you win?
   name:Hours, Days and Nights
   req:525600 timePlayed
   icon:http://i.imgur.com/1Gh7frq.png
@@ -7636,7 +7636,7 @@ Achievements
   icon:http://i.imgur.com/J1ef1UX.png
   req:have timeBearWard12
   *timeBearAchieve3
-  desc:Secretly continue warding and kill the Time Bear.<br><i>"He is out of our naughty list." ~Chief Of Puns</i>"
+  desc:Secretly continue warding and kill the Time Bear.<q>He is out of our naughty list.</q><i>Chief Of Puns</i>
   name:Flesh Repeller
   icon:http://i.imgur.com/9gTyt89.png
   req:have timeBearWard16
@@ -7760,83 +7760,83 @@ Achievements
   name:Missionary of The Divine
   icon:http://i.imgur.com/uCnJqSI.png
   *handDamage16
-  desc:Deal <b>10 decillion</b> damage by hand.<br><i>Now on floor 4. Knuckles, fake biceps and redbull.</i>"
+  desc:Deal <b>10 decillion</b> damage by hand.<q>Now on floor 4. Knuckles, fake biceps and redbull.</q>
   req:10000000000000000000000000000000000 handDamage
   name:Transcendentifical Shopping
   icon:http://i.imgur.com/8QZA7su.png
   *handDamage17
-  desc:Deal <b>10 undecillion</b> damage by hand.<br><i>Keeping the eye on the wall.</i>"
+  desc:Deal <b>10 undecillion</b> damage by hand.<q>Keeping the eye on the wall.</q>
   req:10000000000000000000000000000000000000 handDamage
   name:Never Enough
   icon:http://i.imgur.com/Gtg8P7F.png
   *handDamage18
-  desc:Deal <b>10 duodecillion</b> damage by hand.<br><i>You will never do it.</i>"
+  desc:Deal <b>10 duodecillion</b> damage by hand.<q>You will never do it.</q>
   req:10000000000000000000000000000000000000000 handDamage
   name:Punch.
   icon:http://i.imgur.com/Gtg8P7F.png
   *handDamage19
-  desc:Deal <b>10 tredecillion</b> damage by hand.<br><i>The blood of the walls is on your hands.</i>"
+  desc:Deal <b>10 tredecillion</b> damage by hand.<q>The blood of the walls is on your hands.</q>
   req:10000000000000000000000000000000000000000000 handDamage
   name:Blood
   icon:http://i.imgur.com/Gtg8P7F.png
 
   *HandBrickAchieve1
-  desc:Make <b>100</b> bricks by hand."
+  desc:Make <b>100</b> bricks by hand.
   req:100 handBricks
   name:Dark Magician
   icon:http://i.imgur.com/LeHD80E.png
   *HandBrickAchieve2
-  desc:Make <b>10,000</b> bricks by hand."
+  desc:Make <b>10,000</b> bricks by hand.
   req:10000 handBricks
   name:Incantation
   icon:http://i.imgur.com/BLAoizu.png
   *HandBrickAchieve3
-  desc:Make <b>1,000,000</b> bricks by hand."
+  desc:Make <b>1,000,000</b> bricks by hand.
   req:1e6 handBricks
   name:Evil Power
   icon:http://i.imgur.com/vZmmM5e.png
   *HandBrickAchieve4
-  desc:Make <b>100,000,000</b> bricks by hand."
+  desc:Make <b>100,000,000</b> bricks by hand.
   req:100e6 handBricks
   name:Corruption
   icon:http://i.imgur.com/WohZpox.png
   *HandBrickAchieve5
-  desc:Make <b>10,000,000,000</b> bricks by hand."
+  desc:Make <b>10,000,000,000</b> bricks by hand.
   req:10e9 handBricks
   name:Brainwashing
   icon:http://i.imgur.com/1n3yBA4.png
   *HandBrickAchieve6
-  desc:Make <b>1,000,000,000,000</b> bricks by hand."
+  desc:Make <b>1,000,000,000,000</b> bricks by hand.
   req:1e12 handBricks
   name:Puppet of Darkness
   icon:http://i.imgur.com/mLO2JCX.png
   *HandBrickAchieve7
-  desc:Make <b>100,000,000,000,000</b> bricks by hand."
+  desc:Make <b>100,000,000,000,000</b> bricks by hand.
   req:100e12 handBricks
   name:Shadow of the Night
   icon:http://i.imgur.com/m5peORa.png
   *HandBrickAchieve8
-  desc:Make <b>10,000,000,000,000,000</b> bricks by hand."
+  desc:Make <b>10,000,000,000,000,000</b> bricks by hand.
   req:10e15 handBricks
   name:Dissolving Emptiness
   icon:http://i.imgur.com/3vgirnY.png
   *HandBrickAchieve9
-  desc:Make <b>1,000,000,000,000,000,000</b> bricks by hand."
+  desc:Make <b>1,000,000,000,000,000,000</b> bricks by hand.
   req:1e18 handBricks
   name:Infinite Void
   icon:http://i.imgur.com/FDoBvUl.png
   *HandBrickAchieve10
-  desc:Make <b>1 sextillion</b> bricks by hand."
+  desc:Make <b>1 sextillion</b> bricks by hand.
   req:1e21 handBricks
   name:Path to Nothing and Nowhere
   icon:http://i.imgur.com/IDv4G9r.png
   *HandBrickAchieve11
-  desc:Make <b>1 septillion</b> bricks by hand."
+  desc:Make <b>1 septillion</b> bricks by hand.
   req:1e24 handBricks
   name:Dark Tablet Phychiatry
   icon:http://i.imgur.com/KCdcX5m.png
   *HandBrickAchieve12
-  desc:Make <b>1 octillion</b> bricks by hand."
+  desc:Make <b>1 octillion</b> bricks by hand.
   req:1e27 handBricks
   name:Mesh Clicker
   icon:http://i.imgur.com/NswH8VP.png
@@ -7894,27 +7894,27 @@ Achievements
   req:600 puncher
   icon:http://i.imgur.com/hIw2jGW.png
   *puncherAchieve11
-  desc:Hire <b>700</b> punchers.<br><i>Yeah, you need to punch something that much times to kill it.</i>"
+  desc:Hire <b>700</b> punchers.<q>Yeah, you need to punch something that much times to kill it.</q>
   name:Eight Hundred Punch Man
   req:700 puncher
   icon:http://i.imgur.com/PhxmHqr.png
   *puncherAchieve12
-  desc:Hire <b>800</b> punchers."
+  desc:Hire <b>800</b> punchers.
   name:Rebellion
   req:800 puncher
   icon:http://i.imgur.com/wy0NkCV.png
   *puncherAchieve13
-  desc:Hire <b>900</b> punchers."
+  desc:Hire <b>900</b> punchers.
   name:Punchamanjaro
   req:900 puncher
   icon:http://i.imgur.com/41dXhwN.png
   *puncherAchieve14
-  desc:Hire <b>1,000</b> punchers.<br><i>"Obviously, it's a quintillion." ~Agent Johnson</i>"
+  desc:Hire <b>1,000</b> punchers.<q>Obviously, it's a quintillion.</q><i>Agent Johnson</i>
   name:Punchillion
   req:1000 puncher
   icon:http://i.imgur.com/TRuR1pM.png
   *puncherAchieve15
-  desc:Hire <b>1,100</b> punchers."
+  desc:Hire <b>1,100</b> punchers.
   name:Professor UNCH
   req:1100 puncher
   icon:http://i.imgur.com/ens3Bhe.png
@@ -7924,27 +7924,27 @@ Achievements
   req:1000000000 puncherDamage
   icon:http://i.imgur.com/tzwF920.png
   *puncherDmgAchieve2
-  desc:Deal <b>1,000,000,000,000</b> damage to the wall with your punchers."
+  desc:Deal <b>1,000,000,000,000</b> damage to the wall with your punchers.
   name:There Is Such Thing as a Free Punch
   req:1000000000000 puncherDamage
   icon:http://i.imgur.com/j4Am1sa.png
   *puncherDmgAchieve3
-  desc:Deal <b>1 quitillion</b> damage to the wall with your punchers."
+  desc:Deal <b>1 quitillion</b> damage to the wall with your punchers.
   name:Beat Me Up Inside
   req:1000000000000000000 puncherDamage
   icon:http://i.imgur.com/ZGB4TiX.png
   *puncherDmgAchieve4
-  desc:Deal <b>1 octillion</b> damage to the wall with your punchers."
+  desc:Deal <b>1 octillion</b> damage to the wall with your punchers.
   name:Inside Bleeding
   req:1000000000000000000000000000 puncherDamage
   icon:http://i.imgur.com/5bqbpYi.png
   *puncherDmgAchieve5
-  desc:Deal <b>1 decillion</b> damage to the wall with your punchers."
+  desc:Deal <b>1 decillion</b> damage to the wall with your punchers.
   name:Handjob
   req:1000000000000000000000000000000000 puncherDamage
   icon:http://i.imgur.com/hIw2jGW.png
   *puncherDmgAchieve6
-  desc:Deal <b>1 duodecillion</b> damage to the wall with your punchers."
+  desc:Deal <b>1 duodecillion</b> damage to the wall with your punchers.
   name:Mortally Combated Tenth Time
   req:1000000000000000000000000000000000000000 puncherDamage
   icon:http://i.imgur.com/wy0NkCV.png
@@ -8000,27 +8000,27 @@ Achievements
   req:600 clubber
   icon:http://i.imgur.com/ofHYvwo.png
   *clubberAchieve11
-  desc:Hire <b>700</b> clubbers."
+  desc:Hire <b>700</b> clubbers.
   name:Club-Ragnarok
   req:700 clubber
   icon:http://i.imgur.com/20i38CD.png
   *clubberAchieve12
-  desc:Hire <b>800</b> clubbers."
+  desc:Hire <b>800</b> clubbers.
   name:Club-Adamantium Hydra
   req:800 clubber
   icon:http://i.imgur.com/RIWt6UD.png
   *clubberAchieve13
-  desc:Hire <b>900</b> clubbers."
+  desc:Hire <b>900</b> clubbers.
   name:Singularity Clubbers
   req:900 clubber
   icon:http://i.imgur.com/B9RKy58.png
   *clubberAchieve14
-  desc:Hire <b>1,000</b> clubbers."
+  desc:Hire <b>1,000</b> clubbers.
   name:Plularity Clubbers
   req:1000 clubber
   icon:http://i.imgur.com/tujIoWM.png
   *clubberAchieve15
-  desc:Hire <b>1,100</b> clubbers."
+  desc:Hire <b>1,100</b> clubbers.
   name:Waveλength Clubbers
   req:1100 clubber
   icon:http://i.imgur.com/P5HYLEo.png
@@ -8031,27 +8031,27 @@ Achievements
   req:10000000000 clubberDamage
   icon:http://i.imgur.com/k6W8MW9.png
   *clubberDmgAchieve2
-  desc:Deal <b>10,000,000,000,000</b> damage to the wall with your clubbers."
+  desc:Deal <b>10,000,000,000,000</b> damage to the wall with your clubbers.
   name:Silent Clubstep
   req:10000000000000 clubberDamage
   icon:http://i.imgur.com/JZbeJbZ.png
   *clubberDmgAchieve3
-  desc:Deal <b>10 quintillion</b> damage to the wall with your clubbers."
+  desc:Deal <b>10 quintillion</b> damage to the wall with your clubbers.
   name:Sailent Clubstar
   req:10000000000000000000 clubberDamage
   icon:http://i.imgur.com/Tb9Rpht.png
   *clubberDmgAchieve4
-  desc:Deal <b>10 octillion</b> damage to the wall with your clubbers."
+  desc:Deal <b>10 octillion</b> damage to the wall with your clubbers.
   name:Silent Engine II
   req:10000000000000000000000000000 clubberDamage
   icon:http://i.imgur.com/IpEk7wV.png
   *clubberDmgAchieve5
-  desc:Deal <b>10 decillion</b> damage to the wall with your clubbers."
+  desc:Deal <b>10 decillion</b> damage to the wall with your clubbers.
   name:Satanic Slaughterhouse
   req:10000000000000000000000000000000000 clubberDamage
   icon:http://i.imgur.com/ofHYvwo.png
   *clubberDmgAchieve6
-  desc:Deal <b>10 duodecillion</b> damage to the wall with your clubbers."
+  desc:Deal <b>10 duodecillion</b> damage to the wall with your clubbers.
   name:Minus World V
   req:10000000000000000000000000000000000000000 clubberDamage
   icon:http://i.imgur.com/RIWt6UD.png
@@ -8102,7 +8102,7 @@ Achievements
   req:500 swordsman
   icon:http://i.imgur.com/iPTUQJx.png
   *swordsmanAchieve10
-  desc:Hire <b>600</b> swordsmen."
+  desc:Hire <b>600</b> swordsmen.
   name:The Conquerors of The Solar System
   req:600 swordsman
   icon:http://i.imgur.com/nYJudXF.png
@@ -8112,17 +8112,17 @@ Achievements
   req:700 swordsman
   icon:http://i.imgur.com/WljzKK3.png
   *swordsmanAchieve12
-  desc:Hire <b>800</b> swordsmen."
+  desc:Hire <b>800</b> swordsmen.
   name:Mandelbrutal
   req:800 swordsman
   icon:http://i.imgur.com/ZiK08m9.png
   *swordsmanAchieve13
-  desc:Hire <b>900</b> swordsmen."
+  desc:Hire <b>900</b> swordsmen.
   name:Slice the Dice
   req:900 swordsman
   icon:http://i.imgur.com/Gtg8P7F.png
   *swordsmanAchieve14
-  desc:Hire <b>1,000</b> swordsmen.<br><i>Our swords will cut through absolutely anything.</i>"
+  desc:Hire <b>1,000</b> swordsmen.<q>Our swords will cut through absolutely anything.</q>
   name:1000 Degree Glowing Sword
   req:1000 swordsman
   icon:http://i.imgur.com/kLc5SXU.png
@@ -8133,27 +8133,27 @@ Achievements
   req:100000000000 swordsmanDamage
   icon:http://i.imgur.com/U0XqNYE.png
   *swordDmgAchieve2
-  desc:Deal <b>100,000,000,000,000</b> damage to the wall with your swordsmen."
+  desc:Deal <b>100,000,000,000,000</b> damage to the wall with your swordsmen.
   name:Kingdom Rulers
   req:100000000000000 swordsmanDamage
   icon:http://i.imgur.com/1bc1Ufp.png
   *swordDmgAchieve3
-  desc:Deal <b>100 quitillion</b> damage to the wall with your swordsmen."
+  desc:Deal <b>100 quitillion</b> damage to the wall with your swordsmen.
   name:Medieval 
   req:100000000000000000000 swordsmanDamage
   icon:http://i.imgur.com/3xcSNC8.png
   *swordDmgAchieve4
-  desc:Deal <b>100 octillion</b> damage to the wall with your swordsmen."
+  desc:Deal <b>100 octillion</b> damage to the wall with your swordsmen.
   name:Unleash The Genji
   req:100000000000000000000000000000 swordsmanDamage
   icon:http://i.imgur.com/BVw5a9o.png
   *swordDmgAchieve5
-  desc:Deal <b>100 decillion</b> damage to the wall with your swordsmen."
+  desc:Deal <b>100 decillion</b> damage to the wall with your swordsmen.
   name:Be The Genji
   req:100000000000000000000000000000000000 swordsmanDamage
   icon:http://i.imgur.com/nYJudXF.png
   *swordDmgAchieve6
-  desc:Deal <b>100 duodecillion</b> damage to the wall with your swordsmen.<br><i>This is a children game, I suppose.</i>"
+  desc:Deal <b>100 duodecillion</b> damage to the wall with your swordsmen.<q>This is a children game, I suppose.</q>
   name:Fr*ck The Genji
   req:100000000000000000000000000000000000000000 swordsmanDamage
   icon:http://i.imgur.com/ZiK08m9.png
@@ -8204,7 +8204,7 @@ Achievements
   req:500 gunner
   icon:http://i.imgur.com/V95QmIo.png
   *gunnerAchieve10
-  desc:Hire <b>600</b> gunshooters."
+  desc:Hire <b>600</b> gunshooters.
   name:Top Gek
   req:600 gunner
   icon:http://i.imgur.com/GQyW8ni.png
@@ -8220,27 +8220,27 @@ Achievements
   req:1000000000000 gunnerDamage
   icon:http://i.imgur.com/d6qPAe1.png
   *gunnerDmgAchieve2
-  desc:Deal <b>1,000,000,000,000,000</b> damage to the wall with your gunshooters."
+  desc:Deal <b>1,000,000,000,000,000</b> damage to the wall with your gunshooters.
   name:Cheddar Cheese
   req:1000000000000000 gunnerDamage
   icon:http://i.imgur.com/IbegX1u.png
   *gunnerDmgAchieve3
-  desc:Deal <b>1 sextillion</b> damage to the wall with your gunshooters."
+  desc:Deal <b>1 sextillion</b> damage to the wall with your gunshooters.
   name:Wall Desliceration
   req:1000000000000000000000 gunnerDamage
   icon:http://i.imgur.com/4Lzho0L.png
   *gunnerDmgAchieve4
-  desc:Deal <b>1 nonillion</b> damage to the wall with your gunshooters.<br><i>A man with a gun never needs a life.</i>"
+  desc:Deal <b>1 nonillion</b> damage to the wall with your gunshooters.<q>A man with a gun never needs a life.</q>
   name:No Sword - No Life
   req:1000000000000000000000000000000 gunnerDamage
   icon:http://i.imgur.com/pTa1WAu.png
   *gunnerDmgAchieve5
-  desc:Deal <b>1 undecillion</b> damage to the wall with your gunshooters."
+  desc:Deal <b>1 undecillion</b> damage to the wall with your gunshooters.
   name:FurryCon Shooter
   req:1000000000000000000000000000000000000 gunnerDamage
   icon:http://i.imgur.com/GQyW8ni.png
   *gunnerDmgAchieve6
-  desc:Deal <b>1 tredecillion</b> damage to the wall with your gunshooters."
+  desc:Deal <b>1 tredecillion</b> damage to the wall with your gunshooters.
   name:All Shooter
   req:1000000000000000000000000000000000000000000 gunnerDamage
   icon:http://i.imgur.com/zS1s1Fp.png
@@ -8291,7 +8291,7 @@ Achievements
   req:500 grenade
   icon:http://i.imgur.com/FzLeFau.png
   *grenadeAchieve10
-  desc:Hire <b>600</b> grenademen."
+  desc:Hire <b>600</b> grenademen.
   name:Captain Explosion
   req:600 grenade
   icon:http://i.imgur.com/J7oP3HO.png
@@ -8301,17 +8301,17 @@ Achievements
   req:700 grenade
   icon:http://i.imgur.com/8EFEm0M.png
   *grenadeAchieve12
-  desc:Hire <b>800</b> grenademen."
+  desc:Hire <b>800</b> grenademen.
   name:Tsar Bomb Out Of Grenades
   req:800 grenade
   icon:http://i.imgur.com/VcNgtva.png
   *grenadeAchieve13
-  desc:Hire <b>900</b> grenademen."
+  desc:Hire <b>900</b> grenademen.
   name:Bomber XXIV
   req:900 grenade
   icon:http://i.imgur.com/Gtg8P7F.png
   *grenadeAchieve14
-  desc:Hire <b>1,000</b> grenademen.<br><i>Didn't we learn from history or something?</i>"
+  desc:Hire <b>1,000</b> grenademen.<q>Didn't we learn from history or something?</q>
   name:Forced Hiroshima
   req:1000 grenade
   icon:http://i.imgur.com/Gtg8P7F.png
@@ -8322,27 +8322,27 @@ Achievements
   req:10000000000000 grenadeDamage
   icon:http://i.imgur.com/IiBqHel.png
   *grenadeDmgAchieve2
-  desc:Deal <b>10,000,000,000,000,000</b> damage to the wall with your grenademen."
+  desc:Deal <b>10,000,000,000,000,000</b> damage to the wall with your grenademen.
   name:World War
   req:10000000000000000 grenadeDamage
   icon:http://i.imgur.com/Z4YDjVW.png
   *grenadeDmgAchieve3
-  desc:Deal <b>10 sextillion</b> damage to the wall with your grenademen."
+  desc:Deal <b>10 sextillion</b> damage to the wall with your grenademen.
   name:The Islamist
   req:10000000000000000000000 grenadeDamage
   icon:http://i.imgur.com/3QX7sbz.png
   *grenadeDmgAchieve4
-  desc:Deal <b>10 nonillion</b> damage to the wall with your grenademen."
+  desc:Deal <b>10 nonillion</b> damage to the wall with your grenademen.
   name:Naded it
   req:10000000000000000000000000000000 grenadeDamage
   icon:http://i.imgur.com/pUkQa2G.png
   *grenadeDmgAchieve5
-  desc:Deal <b>10 undecillion</b> damage to the wall with your grenademen."
+  desc:Deal <b>10 undecillion</b> damage to the wall with your grenademen.
   name:Send Nud- Bombs
   req:10000000000000000000000000000000000000 grenadeDamage
   icon:http://i.imgur.com/J7oP3HO.png
   *grenadeDmgAchieve6
-  desc:Deal <b>10 tredecillion</b> damage to the wall with your grenademen.<br><i>Gunpowder is so last millennia.</i>"
+  desc:Deal <b>10 tredecillion</b> damage to the wall with your grenademen.<q>Gunpowder is so last millennia.</q>
   name:Grenpowder
   req:10000000000000000000000000000000000000000000 grenadeDamage
   icon:http://i.imgur.com/VcNgtva.png
@@ -8392,7 +8392,7 @@ Achievements
   name:Reality Wreck
   req:500 wreckingBall
   icon:http://i.imgur.com/3OYp1g4.png
-  desc:Hire <b>600</b> wrecking balls."
+  desc:Hire <b>600</b> wrecking balls.
   name:Transprimordial Wreck
   req:600 wreckingBall
   icon:http://i.imgur.com/2yFjtIa.png
@@ -8403,12 +8403,12 @@ Achievements
   req:700 wreckingBall
   icon:http://i.imgur.com/LmISELN.png
   *wreckingAchieve12
-  desc:Hire <b>800</b> wrecking balls."
+  desc:Hire <b>800</b> wrecking balls.
   name:Miley Cyrus
   req:800 wreckingBall
   icon:http://i.imgur.com/uQo213H.png
   *wreckingAchieve13
-  desc:Hire <b>800</b> wrecking balls."
+  desc:Hire <b>800</b> wrecking balls.
   name:Smashlight
   req:900 wreckingBall
   icon:http://i.imgur.com/Gtg8P7F.png
@@ -8419,27 +8419,27 @@ Achievements
   req:100000000000000 wreckingBallDamage
   icon:http://i.imgur.com/yM8TEHL.png
   *wreckingDmgAchieve2
-  desc:Deal <b>100,000,000,000,000,000</b> damage to the wall with your wrecking balls.<br><i>Which balls? ~Agent Johnson</i>"
+  desc:Deal <b>100,000,000,000,000,000</b> damage to the wall with your wrecking balls.<q>Which balls?</q><i>Agent Johnson</i>
   name:The Balls
   req:100000000000000000 wreckingBallDamage
   icon:http://i.imgur.com/0b76QvZ.png
   *wreckingDmgAchieve3
-  desc:Deal <b>100 sextillion</b> damage to the wall with your wrecking balls."
+  desc:Deal <b>100 sextillion</b> damage to the wall with your wrecking balls.
   name:Agent Johnson's Big Balls
   req:100000000000000000000000 wreckingBallDamage
   icon:http://i.imgur.com/WgKfsDM.png
   *wreckingDmgAchieve4
-  desc:Deal <b>100 nonillion</b> damage to the wall with your wrecking balls."
+  desc:Deal <b>100 nonillion</b> damage to the wall with your wrecking balls.
   name:Diswrecked
   req:100000000000000000000000000000000 wreckingBallDamage
   icon:http://i.imgur.com/WgKfsDM.png
   *wreckingDmgAchieve5
-  desc:Deal <b>100 undecillion</b> damage to the wall with your wrecking balls."
+  desc:Deal <b>100 undecillion</b> damage to the wall with your wrecking balls.
   name:Hole In The Wall
   req:100000000000000000000000000000000000000 wreckingBallDamage
   icon:http://i.imgur.com/2yFjtIa.png
   *wreckingDmgAchieve6
-  desc:Deal <b>100 tredecillion</b> damage to the wall with your wrecking balls."
+  desc:Deal <b>100 tredecillion</b> damage to the wall with your wrecking balls.
   name:Beehive
   req:100000000000000000000000000000000000000000000 wreckingBallDamage
   icon:http://i.imgur.com/uQo213H.png
@@ -8490,7 +8490,7 @@ Achievements
   req:500 bulldozer
   icon:http://i.imgur.com/wzJXciZ.png
   *bulldozerAchieve10
-  desc:Hire <b>600</b> bulldozers."
+  desc:Hire <b>600</b> bulldozers.
   name:Dozen Dozes
   req:600 bulldozer
   icon:http://i.imgur.com/sfXVHT6.png
@@ -8500,7 +8500,7 @@ Achievements
   req:700 bulldozer
   icon:http://i.imgur.com/taZMkYw.png
   *bulldozerAchieve12
-  desc:Hire <b>800</b> bulldozers."
+  desc:Hire <b>800</b> bulldozers.
   name:Turn It Off And Doze It On
   req:800 bulldozer
   icon:http://i.imgur.com/Gtg8P7F.png
@@ -8511,27 +8511,27 @@ Achievements
   req:200000000000000 bulldozerDamage
   icon:http://i.imgur.com/q1QrnCW.png
   *bulldozerDmgAchieve2
-  desc:Deal <b>200,000,000,000,000,000</b> damage to the wall with your bulldozers."
+  desc:Deal <b>200,000,000,000,000,000</b> damage to the wall with your bulldozers.
   name:Push Into The Void
   req:200000000000000000 bulldozerDamage
   icon:http://i.imgur.com/DPbausO.png
   *bulldozerDmgAchieve3
-  desc:Deal <b>200 sextillion</b> damage to the wall with your bulldozers."
+  desc:Deal <b>200 sextillion</b> damage to the wall with your bulldozers.
   name:Farm of Bulls
   req:200000000000000000000000 bulldozerDamage
   icon:http://i.imgur.com/50pc780.png
   *bulldozerDmgAchieve4
-  desc:Deal <b>200 nonillion</b> damage to the wall with your bulldozers."
+  desc:Deal <b>200 nonillion</b> damage to the wall with your bulldozers.
   name:Deconstruction Site
   req:200000000000000000000000000000000 bulldozerDamage
   icon:http://i.imgur.com/lKRKuaD.png
   *bulldozerDmgAchieve5
-  desc:Deal <b>200 undecillion</b> damage to the wall with your bulldozers."
+  desc:Deal <b>200 undecillion</b> damage to the wall with your bulldozers.
   name:Interstellar Level
   req:200000000000000000000000000000000000000 bulldozerDamage
   icon:http://i.imgur.com/sfXVHT6.png
   *bulldozerDmgAchieve6
-  desc:Deal <b>200 tredecillion</b> damage to the wall with your bulldozers."
+  desc:Deal <b>200 tredecillion</b> damage to the wall with your bulldozers.
   name:Intergalactic Level
   req:200000000000000000000000000000000000000000000 bulldozerDamage
   icon:http://i.imgur.com/8XhF0a9.png
@@ -8582,17 +8582,17 @@ Achievements
   req:500 airstrike
   icon:http://i.imgur.com/KqdTHwt.png
   *airstrikeAchieve10
-  desc:Hire <b>600</b> airstrike callers."
+  desc:Hire <b>600</b> airstrike callers.
   name:Grenademan Achievement #73
   req:600 airstrike
   icon:http://i.imgur.com/YqEx6Xx.png
   *airstrikeAchieve11
-  desc:Hire <b>700</b> airstrike callers.<br><i>His walls obviously...</i>"
+  desc:Hire <b>700</b> airstrike callers.<q>His walls obviously...</q>
   name:Nuke The Trump
   req:700 airstrike
   icon:http://i.imgur.com/pyvvTSj.png
   *airstrikeAchieve12
-  desc:Hire <b>800</b> airstrike callers."
+  desc:Hire <b>800</b> airstrike callers.
   name:Call Of Duty
   req:800 airstrike
   icon:http://i.imgur.com/XSae4F0.png
@@ -8603,27 +8603,27 @@ Achievements
   req:2000000000000000 airstrikeDamage
   icon:http://i.imgur.com/ziKked6.png
   *airstrikeDmgAchieve2
-  desc:Deal <b>2 sextillion</b> damage to the wall with your airstrike callers."
+  desc:Deal <b>2 sextillion</b> damage to the wall with your airstrike callers.
   name:Death Responded
   req:2000000000000000000 airstrikeDamage
   icon:http://i.imgur.com/xxfcJIo.png
   *airstrikeDmgAchieve3
-  desc:Deal <b>2 octillion</b> damage to the wall with your airstrike callers."
+  desc:Deal <b>2 octillion</b> damage to the wall with your airstrike callers.
   name:Allahu Akbar
   req:2000000000000000000000000 airstrikeDamage
   icon:http://i.imgur.com/rEOQtOS.png
   *airstrikeDmgAchieve4
-  desc:Deal <b>2 decillion</b> damage to the wall with your airstrike callers."
+  desc:Deal <b>2 decillion</b> damage to the wall with your airstrike callers.
   name:The Epic Airstrike
   req:2000000000000000000000000000000 airstrikeDamage
   icon:http://i.imgur.com/2ySbj27.png
   *airstrikeDmgAchieve5
-  desc:Deal <b>2 duodecillion</b> damage to the wall with your airstrike callers."
+  desc:Deal <b>2 duodecillion</b> damage to the wall with your airstrike callers.
   name:Vast
   req:2000000000000000000000000000000000000 airstrikeDamage
   icon:http://i.imgur.com/YqEx6Xx.png
   *airstrikeDmgAchieve6
-  desc:Deal <b>2 quattuordecillion</b> damage to the wall with your airstrike callers.<br><i>"Chief of puns was here"</i>"
+  desc:Deal <b>2 quattuordecillion</b> damage to the wall with your airstrike callers.<q>Chief of puns was here</q>
   name:aVast
   req:2000000000000000000000000000000000000000000 airstrikeDamage
   icon:http://i.imgur.com/XSae4F0.png
@@ -8674,33 +8674,33 @@ Achievements
   req:500 necromancer
   icon:http://i.imgur.com/2nlwuwZ.png
   *necromancerAchieve10
-  desc:Hire <b>600</b> necromancers."
+  desc:Hire <b>600</b> necromancers.
   name:Undead These Days...
   req:600 necromancer
   icon:http://i.imgur.com/noYm2fV.png
 
   *necromancDmgAchieve
-  desc:Deal <b>100,000,000,000,000,000</b> damage to the wall with your necromancers."
+  desc:Deal <b>100,000,000,000,000,000</b> damage to the wall with your necromancers.
   name:Zombie Madness
   req:100000000000000000 necromancerDamage
   icon:http://i.imgur.com/v1AK3rT.png
   *necromancDmgAchieve2
-  desc:Deal <b>100 sextillion</b> damage to the wall with your necromancers."
+  desc:Deal <b>100 sextillion</b> damage to the wall with your necromancers.
   name:Purifier of Zombies
   req:100000000000000000000000 necromancerDamage
   icon:http://i.imgur.com/G04qYcp.png
   *necromancDmgAchieve3
-  desc:Deal <b>100 septillion</b> damage to the wall with your necromancers."
+  desc:Deal <b>100 septillion</b> damage to the wall with your necromancers.
   name:Great Corpse Remover
   req:100000000000000000000000000 necromancerDamage
   icon:http://i.imgur.com/MQYHYJX.png
   *necromancDmgAchieve4
-  desc:Deal <b>100 decillion</b> damage to the wall with your necromancers."
+  desc:Deal <b>100 decillion</b> damage to the wall with your necromancers.
   name:No Grave Left
   req:100000000000000000000000000000000000 necromancerDamage
   icon:http://i.imgur.com/vr82R1d.png
   *necromancDmgAchieve5
-  desc:Deal <b>100 duodecillion</b> damage to the wall with your necromancers."
+  desc:Deal <b>100 duodecillion</b> damage to the wall with your necromancers.
   name:202 Billion Feet
   req:100000000000000000000000000000000000000000 necromancerDamage
   icon:http://i.imgur.com/VIgd45X.png
@@ -8751,33 +8751,33 @@ Achievements
   req:500 giant
   icon:http://i.imgur.com/enLETzJ.png
   *giantAchieve10
-  desc:Hire <b>600</b> titans."
+  desc:Hire <b>600</b> titans.
   name:All-Seeing Eye
   req:600 giant
   icon:http://i.imgur.com/hAPByUt.png
 
   *giantDmgAchieve
-  desc:Deal <b>300,000,000,000,000,000</b> damage to the wall with your titans."
+  desc:Deal <b>300,000,000,000,000,000</b> damage to the wall with your titans.
   name:Only 30 Meters High
   req:300000000000000000 giantDamage
   icon:http://i.imgur.com/YYCAyYr.png
   *giantDmgAchieve2
-  desc:Deal <b>300 sextillion</b> damage to the wall with your titans."
+  desc:Deal <b>300 sextillion</b> damage to the wall with your titans.
   name:Are You Dead Yet?
   req:300000000000000000000000 giantDamage
   icon:http://i.imgur.com/sEMkprd.png
   *giantDmgAchieve3
-  desc:Deal <b>300 septillion</b> damage to the wall with your titans."
+  desc:Deal <b>300 septillion</b> damage to the wall with your titans.
   name:Really Big
   req:300000000000000000000000000 giantDamage
   icon:http://i.imgur.com/MtDGLlY.png
   *giantDmgAchieve4
-  desc:Deal <b>300 decillion</b> damage to the wall with your titans."
+  desc:Deal <b>300 decillion</b> damage to the wall with your titans.
   name:Blue Lion
   req:300000000000000000000000000000000000 giantDamage
   icon:http://i.imgur.com/PuX8Z11.png
   *giantDmgAchieve5
-  desc:Deal <b>300 duodecillion</b> damage to the wall with your titans."
+  desc:Deal <b>300 duodecillion</b> damage to the wall with your titans.
   name:Reverse Repair
   req:300000000000000000000000000000000000000000 giantDamage
   icon:http://i.imgur.com/MK8RnHM.png
@@ -8828,7 +8828,7 @@ Achievements
   req:500 brickFactory
   icon:http://i.imgur.com/CVVcmHj.png
   *brickFactorAchieve10
-  desc:Build <b>600</b> brick fatories."
+  desc:Build <b>600</b> brick fatories.
   name:Factories In Mexico
   req:600 brickFactory
   icon:http://i.imgur.com/ufqnZaV.png
@@ -8879,38 +8879,38 @@ Achievements
   req:500 demon
   icon:http://i.imgur.com/msrmpyh.png
   *demonAchieve10
-  desc:Hire <b>600</b> demons.<br><i>Disclaimer: The narrator is not jesus.</i>"
+  desc:Hire <b>600</b> demons.<q>Disclaimer: The narrator is not jesus.</q>
   name:Jesus
   req:600 demon
   icon:http://i.imgur.com/lqdvoH6.png
   *demonAchieveBeastNmb
-  desc:Hire <b>666</b> demons.<br><i>What a plot twist!</i>"
+  desc:Hire <b>666</b> demons.<q>What a plot twist!</q>
   name:Lucifer
   req:666 demon
   icon:http://i.imgur.com/L44ETEi.png
 
   *demonDmgAchieve
-  desc:Deal <b>600,000,000,000,000,000</b> damage to the wall with your demons."
+  desc:Deal <b>600,000,000,000,000,000</b> damage to the wall with your demons.
   name:Bubbly Lava Soup
   req:600000000000000000 demonDamage
   icon:http://i.imgur.com/klcGmts.png
   *demonDmgAchieve2
-  desc:Deal <b>600 sextillion</b> damage to the wall with your demons."
+  desc:Deal <b>600 sextillion</b> damage to the wall with your demons.
   name:Antichrist
   req:600000000000000000000000 demonDamage
   icon:http://i.imgur.com/DGV4nLW.png
   *demonDmgAchieve3
-  desc:Deal <b>600 septillion</b> damage to the wall with your demons."
+  desc:Deal <b>600 septillion</b> damage to the wall with your demons.
   name:The Dark Lord Is Here
   req:600000000000000000000000000 demonDamage
   icon:http://i.imgur.com/mCEnWGa.png
   *demonDmgAchieve4
-  desc:Deal <b>600 decillion</b> damage to the wall with your demons."
+  desc:Deal <b>600 decillion</b> damage to the wall with your demons.
   name:I Suck At Doing Titles, Enjoy This Agent Johnson
   req:600000000000000000000000000000000000 demonDamage
   icon:http://i.imgur.com/oCJsVZq.png
   *demonDmgAchieve5
-  desc:Deal <b>600 duodecillion</b> damage to the wall with your demons."
+  desc:Deal <b>600 duodecillion</b> damage to the wall with your demons.
   name:Antibirth
   req:600000000000000000000000000000000000000000 demonDamage
   icon:http://i.imgur.com/lqdvoH6.png
@@ -8961,33 +8961,33 @@ Achievements
   req:500 compromiser
   icon:http://i.imgur.com/KkLNQv0.png
   *compromiserAchieve10
-  desc:Build <b>600</b> reality compromisers."
+  desc:Build <b>600</b> reality compromisers.
   name:Penrose
   req:600 compromiser
   icon:http://i.imgur.com/VeoBNKx.png
 
   *compromisDmgAchieve
-  desc:Deal <b>1 quintillion</b> damage to the wall with your reality compromisers."
+  desc:Deal <b>1 quintillion</b> damage to the wall with your reality compromisers.
   name:Fourth Deletion
   req:1000000000000000000 compromiserDamage
   icon:http://i.imgur.com/gRgl3DR.png
   *compromisDmgAchieve2
-  desc:Deal <b>1 septillion</b> damage to the wall with your reality compromisers."
+  desc:Deal <b>1 septillion</b> damage to the wall with your reality compromisers.
   name:Team Force Update
   req:1000000000000000000000000 compromiserDamage
   icon:http://i.imgur.com/3aOpWd3.png
   *compromisDmgAchieve3
-  desc:Deal <b>1 octillion</b> damage to the wall with your reality compromisers."
+  desc:Deal <b>1 octillion</b> damage to the wall with your reality compromisers.
   name:The Universe Said 4
   req:1000000000000000000000000000 compromiserDamage
   icon:http://i.imgur.com/lBojsEA.png
   *compromisDmgAchieve4
-  desc:Deal <b>1 undecillion</b> damage to the wall with your reality compromisers.<br><i>I will eat all your tofu and gas ~ThatDude</i>"
+  desc:Deal <b>1 undecillion</b> damage to the wall with your reality compromisers.<q>I will eat all your tofu and gas</q><i>ThatDude</i>
   name:Tofu_Saturn
   req:1000000000000000000000000000000000000 compromiserDamage
   icon:http://i.imgur.com/eEN1R6D.png
   *compromisDmgAchieve5
-  desc:Deal <b>1 tredecillion</b> damage to the wall with your reality compromisers.<br><i>Perhaps this is how tesseract damage came to life.</i>"
+  desc:Deal <b>1 tredecillion</b> damage to the wall with your reality compromisers.<q>Perhaps this is how tesseract damage came to life.</q>
   name:That Fourth Wall Thingy, Yes That One Over There, Now Don't Touch That, What Have You Done!?
   req:1000000000000000000000000000000000000000000 compromiserDamage
   icon:http://i.imgur.com/VeoBNKx.png
@@ -9033,199 +9033,199 @@ Achievements
   req:400 lastBuilding
   icon:http://i.imgur.com/9ICkBB1.png
   *lastBuildingAchieve9
-  desc:Build <b>500</b> Black obliterators."
+  desc:Build <b>500</b> Black obliterators.
   name:Black
   req:500 lastBuilding
   icon:http://i.imgur.com/lLjnBdc.png
   *lastBuildingAchiev10
-  desc:Build <b>500</b> Black obliterators."
+  desc:Build <b>500</b> Black obliterators.
   name:Black Hole
   req:600 lastBuilding
   icon:http://i.imgur.com/pEpISIJ.png
   *lastDmgAchieve
-  desc:Deal <b>1 septillion</b> damage to the wall with your obliterators."
+  desc:Deal <b>1 septillion</b> damage to the wall with your obliterators.
   name:Consume
   req:1000000000000000000000000 lastDamage
   icon:http://i.imgur.com/PqwDNQa.png
   *lastDmgAchieve2
-  desc:Deal <b>1 octillion</b> damage to the wall with your obliterators."
+  desc:Deal <b>1 octillion</b> damage to the wall with your obliterators.
   name:Everything
   req:1000000000000000000000000000 lastDamage
   icon:http://i.imgur.com/UDpQHgY.png
   *lastDmgAchieve3
-  desc:Deal <b>1 decillion</b> damage to the wall with your obliterators."
+  desc:Deal <b>1 decillion</b> damage to the wall with your obliterators.
   name:Quantum Obliteration
   req:1000000000000000000000000000000000 lastDamage
   icon:http://i.imgur.com/5vGNs1i.png
   *lastDmgAchieve4
-  desc:Deal <b>1 tredecillion</b> damage to the wall with your obliterators."
+  desc:Deal <b>1 tredecillion</b> damage to the wall with your obliterators.
   name:No Physics And Screams Apply Here
   req:1000000000000000000000000000000000000000000 lastDamage
   icon:http://i.imgur.com/jvDmXhB.png
   *lastDmgAchieve5
-  desc:Deal <b>100 tredecillion</b> damage to the wall with your obliterators.<br><i>The only math you need.</i>"
+  desc:Deal <b>100 tredecillion</b> damage to the wall with your obliterators.<q>The only math you need.</q>
   name:+ + + = -; - + - = +.
   req:100000000000000000000000000000000000000000000 lastDamage
   icon:http://i.imgur.com/pEpISIJ.png
 
   *singularityAchieve1
-  desc:Build <b>1</b> Singularity."
+  desc:Build <b>1</b> Singularity.
   name:Helix
   req:1 singularityBuilding
   icon:http://i.imgur.com/c6wbTjb.png
   *singularityAchieve2
-  desc:Build <b>10</b> Singularities."
+  desc:Build <b>10</b> Singularities.
   name:Flume
   req:10 singularityBuilding
   icon:http://i.imgur.com/mf6J2LT.png
   *singularityAchieve3
-  desc:Build <b>50</b> Singularities."
+  desc:Build <b>50</b> Singularities.
   name:Wavestepping
   req:50 singularityBuilding
   icon:http://i.imgur.com/6MiAbrF.png
   *singularityAchieve4
-  desc:Build <b>100</b> Singularities."
+  desc:Build <b>100</b> Singularities.
   name:Bliss
   req:100 singularityBuilding
   icon:http://i.imgur.com/0eO1KAQ.png
   *singularityAchieve5
-  desc:Build <b>150</b> Singularities."
+  desc:Build <b>150</b> Singularities.
   name:Year 2814
   req:150 singularityBuilding
   icon:http://i.imgur.com/hVTEcOK.png
   *singularityAchieve6
-  desc:Build <b>200</b> Singularities."
+  desc:Build <b>200</b> Singularities.
   name:True Singularity
   req:200 singularityBuilding
   icon:http://i.imgur.com/04ZQmQN.png
   *singularityAchieve7
-  desc:Build <b>300</b> Singularities."
+  desc:Build <b>300</b> Singularities.
   name:Infinitesimal, But Dense
   req:300 singularityBuilding
   icon:http://i.imgur.com/U6HJjoT.png
   *singularityAchieve8
-  desc:Build <b>400</b> Singularities.<br><i>Because regular water is for the average wall destroyers.</i>"
+  desc:Build <b>400</b> Singularities.<q>Because regular water is for the average wall destroyers.</q>
   name:I Only Drink Fiji
   req:400 singularityBuilding
   icon:http://i.imgur.com/NAaPDX3.png
   *singularityAchieve9
-  desc:Build <b>500</b> Singularities.<br><i>Fundamentally, this shouldn't make sense. And, yet, we're here.</i>"
+  desc:Build <b>500</b> Singularities.<q>Fundamentally, this shouldn't make sense. And, yet, we're here.</q>
   name:Fundamentall l lli li lity
   req:500 singularityBuilding
   icon:http://i.imgur.com/UutBnId.png
   *singularityAchieve10
-  desc:Build <b>600</b> Singularities."
+  desc:Build <b>600</b> Singularities.
   name:The IQ of Exact Pi Without Dot
   req:600 singularityBuilding
   icon:http://i.imgur.com/JPZAMlk.png
   *singDmgAchieve
-  desc:Deal <b>100 octillion</b> damage to the wall with your Singularities."
+  desc:Deal <b>100 octillion</b> damage to the wall with your Singularities.
   name:Nothingness, Null Void
   req:1e29 singularityDamage
   icon:http://i.imgur.com/c6wbTjb.png
   *singDmgAchieve2
-  desc:Deal <b>100 nonillion</b> damage to the wall with your Singularities."
+  desc:Deal <b>100 nonillion</b> damage to the wall with your Singularities.
   name:Crash The Multiverse Web
   req:1e31 singularityDamage
   icon:http://i.imgur.com/VIJqgVJ.png
   *singDmgAchieve3
-  desc:Deal <b>100 decillion</b> damage to the wall with your Singularities."
+  desc:Deal <b>100 decillion</b> damage to the wall with your Singularities.
   name:Quantum Suicide Debunked
   req:1e35 singularityDamage
   icon:http://i.imgur.com/ezUitR5.png
   *singDmgAchieve4
-  desc:Deal <b>100 tredecillion</b> damage to the wall with your Singularities."
+  desc:Deal <b>100 tredecillion</b> damage to the wall with your Singularities.
   name:Pure Flatlands of Alpha
   req:1e44 singularityDamage
   icon:http://i.imgur.com/mXRDfR5.png
 
   *edgeBeingAchieve1
-  desc:Hire <b>1</b> Edge Being."
+  desc:Hire <b>1</b> Edge Being.
   name:Saint Pepsi
   req:1 edgeBeing
   icon:http://i.imgur.com/vigT0yI.png
   *edgeBeingAchieve2
-  desc:Hire <b>10</b> Edge Beings."
+  desc:Hire <b>10</b> Edge Beings.
   name:The Edge of The Reality
   req:10 edgeBeing
   icon:http://i.imgur.com/XKK3FKS.png
   *edgeBeingAchieve3
-  desc:Hire <b>50</b> Edge Beings."
+  desc:Hire <b>50</b> Edge Beings.
   name:Master of The Greek Alphabet
   req:50 edgeBeing
   icon:http://i.imgur.com/Ew206fE.png
   *edgeBeingAchieve4
-  desc:Hire <b>100</b> Edge Beings.<br><i>And so am I. ~ usavictor</i>"
+  desc:Hire <b>100</b> Edge Beings.<q>And so am I.</q><i>usavictor</i>
   name:Weirdoverse Is Awful At Making Up Names
   req:100 edgeBeing
   icon:http://i.imgur.com/UiYgx6i.png
   *edgeBeingAchieve5
-  desc:Hire <b>150</b> Edge Beings<br><i>There is no end. There are only false presumptions.</i>"
+  desc:Hire <b>150</b> Edge Beings<q>There is no end. There are only false presumptions.</q>
   name:Finality Being
   req:150 edgeBeing
   icon:http://i.imgur.com/odk7zpu.png
   *edgeBeingAchieve6
-  desc:Hire <b>200</b> Edge Beings"
+  desc:Hire <b>200</b> Edge Beings
   name:Mesh Being
   req:200 edgeBeing
   icon:http://i.imgur.com/b2shzj6.png
   *edgeBeingAchieve7
-  desc:Hire <b>300</b> Edge Beings"
+  desc:Hire <b>300</b> Edge Beings
   name:More Edges Than It Has On Itself
   req:300 edgeBeing
   icon:http://i.imgur.com/qfscrvY.png
   *edgeBeingAchieve8
-  desc:Hire <b>400</b> Edge Beings"
+  desc:Hire <b>400</b> Edge Beings
   name:Edge Cell
   req:400 edgeBeing
   icon:http://i.imgur.com/R60jUAD.png
   *edgeBeingAchieve9
-  desc:Hire <b>500</b> Edge Beings"
+  desc:Hire <b>500</b> Edge Beings
   name:Quincentennial
   req:500 edgeBeing
   icon:http://i.imgur.com/S1uaASg.png
   *edgeBeingDmgAchieve1
-  desc:Deal <b>500 nonillion</b> damage to the wall with your Edge Beings."
+  desc:Deal <b>500 nonillion</b> damage to the wall with your Edge Beings.
   name:Nihilist
   req:5e32 edgeBeingDamage
   icon:http://i.imgur.com/vigT0yI.png
   *edgeBeingDmgAchieve2
-  desc:Deal <b>500 decillion</b> damage to the wall with your Edge Beings."
+  desc:Deal <b>500 decillion</b> damage to the wall with your Edge Beings.
   name:Obsessed
   req:5e35 edgeBeingDamage
   icon:http://i.imgur.com/5fqSkOk.png
   *edgeBeingDmgAchieve3
-  desc:Deal <b>500 duodecillion</b> damage to the wall with your Edge Beings."
+  desc:Deal <b>500 duodecillion</b> damage to the wall with your Edge Beings.
   name:X1276uW
   req:5e41 edgeBeingDamage
   icon:http://i.imgur.com/30AnX00.png
   *edgeBeingDmgAchieve4
-  desc:Deal <b>500 tredecillion</b> damage to the wall with your Edge Beings."
+  desc:Deal <b>500 tredecillion</b> damage to the wall with your Edge Beings.
   name:ziKtmX1 - f617iwl (//Tredetennial)
   req:5e44 edgeBeingDamage
   icon:http://i.imgur.com/g3jFU02.png
   *glitchAchieve1
-  desc:Hire <b>1</b> glitch. ... wait, hold up, that sounds wrong. How'd <i>you</i> hire a glitch!? Where'd it come from?"
+  desc:Hire <b>1</b> glitch. ... wait, hold up, that sounds wrong. How'd <i>you</i> hire a glitch!? Where'd it come from?
   name:The Illogical
   req:1 strangeGlitch
   icon:http://i.imgur.com/Gtg8P7F.png
   *glitchAchieve2
-  desc:Hire <b>10</b> glitches.<br><i>Curse the developer for this.</i>"
+  desc:Hire <b>10</b> glitches.<q>Curse the developer for this.</q>
   name:Kind of Defective
   req:10 strangeGlitch
   icon:http://i.imgur.com/Gtg8P7F.png
   *glitchAchieve3
-  desc:Hire <b>25</b> glitches."
+  desc:Hire <b>25</b> glitches.
   name:________________
   req:25 strangeGlitch
   icon:http://i.imgur.com/Gtg8P7F.png
   *glitchAchieve4
-  desc:Hire <b>50</b> glitches."
+  desc:Hire <b>50</b> glitches.
   name:You Take Reality and Crush It
   req:50 strangeGlitch
   icon:http://i.imgur.com/Gtg8P7F.png
   *glitchEnd
-  desc:Correct the Anti-Realm and patch the glitches from the Normal World, ending The Suppression.<br><i>Can't duplicate Master Balls anymore. Sad day.</i>"
+  desc:Correct the Anti-Realm and patch the glitches from the Normal World, ending The Suppression.<q>Can't duplicate Master Balls anymore. Sad day.</q>
   name:Wanna Cry
   icon:http://i.imgur.com/Gtg8P7F.png
 
@@ -9265,7 +9265,7 @@ Achievements
   icon:http://i.imgur.com/gszdkb6.png
   req:7500 building
   *buildingAchieve8
-  desc:Have <b>10,000</b> buildings."
+  desc:Have <b>10,000</b> buildings.
   name:The Prince
   icon:http://i.imgur.com/lyIXkLq.png
   req:10000 building
@@ -9275,109 +9275,109 @@ Achievements
   icon:http://i.imgur.com/xvVrdJg.png
   req:12500 building
   *buildingAchieve10
-  desc:Have <b>15,000</b> buildings."
+  desc:Have <b>15,000</b> buildings.
   name:End Of The Beginning
   icon:http://i.imgur.com/AXc3JzP.png
   req:15000 building
 
   *totBuildingAchieve1
-  desc:Sacrifice <b>10,000</b> buildings."
+  desc:Sacrifice <b>10,000</b> buildings.
   name:Rebirth
   icon:http://i.imgur.com/U84N3WY.png
   req:10000 lostBuildings
   *totBuildingAchieve2
-  desc:Sacrifice <b>20,000</b> buildings."
+  desc:Sacrifice <b>20,000</b> buildings.
   name:Afterlife
   icon:http://i.imgur.com/CyLRNfy.png
   req:20000 lostBuildings
   *totBuildingAchieve3
-  desc:Sacrifice <b>30,000</b> buildings."
+  desc:Sacrifice <b>30,000</b> buildings.
   name:High Life
   icon:http://i.imgur.com/zig46Wt.png
   req:30000 lostBuildings
   *totBuildingAchieve4
-  desc:Sacrifice <b>50,000</b> buildings.<br><i>EDIT: Stop inserting Geometry Dash titles</i>"
+  desc:Sacrifice <b>50,000</b> buildings.<q>EDIT: Stop inserting Geometry Dash titles</q>
   name:Low Death
   icon:http://i.imgur.com/Zj1g3i5.png
   req:50000 lostBuildings
   *totBuildingAchieve5
-  desc:Sacrifice <b>75,000</b> buildings.<br><i>"Stop it Johnson, I'm not an unit of buildings sacrificed!" ~Agent Lawrence</i>"
+  desc:Sacrifice <b>75,000</b> buildings.<q>Stop it Johnson, I'm not an unit of buildings sacrificed!</q><i>Agent Lawrence</i>
   name:Agent Lawrence Sucks
   icon:http://i.imgur.com/06YXjwd.png
   req:75000 lostBuildings
   *totBuildingAchieve6
-  desc:Sacrifice <b>100,000</b> buildings."
+  desc:Sacrifice <b>100,000</b> buildings.
   name:Real Sacrificing
   icon:http://i.imgur.com/U1jDV3O.png
   req:100000 lostBuildings
   *totBuildingAchieve7
-  desc:Sacrifice <b>150,000</b> buildings."
+  desc:Sacrifice <b>150,000</b> buildings.
   name:Ascension
   icon:http://i.imgur.com/GGm1lhe.png
   req:150000 lostBuildings
   *totBuildingAchieve8
-  desc:Sacrifice <b>200,000</b> buildings."
+  desc:Sacrifice <b>200,000</b> buildings.
   name:A lot.
   icon:http://i.imgur.com/t0XSjtB.png
   req:200000 lostBuildings
 
   *totalWallsAchieve1
-  desc:Destroy <b>100</b> Total walls from previous sessions."
+  desc:Destroy <b>100</b> Total walls from previous sessions.
   name:Hundrendth Destruction
   req:100 totalWalls
   icon:http://i.imgur.com/aCU88Ro.png
   *totalWallsAchieve2
-  desc:Destroy <b>250</b> Total walls from previous sessions.<br><i>supposed to be "Wall Master" but it was taken, i suppose.</i>"
+  desc:Destroy <b>250</b> Total walls from previous sessions.<q>supposed to be "Wall Master" but it was taken, i suppose.</q>
   name:Wall Sparky
   req:250 totalWalls
   icon:http://i.imgur.com/6H6iLIw.png
   *totalWallsAchieve3
-  desc:Destroy <b>500</b> Total walls from previous sessions.<br><i>That is just a nono.</i>"
+  desc:Destroy <b>500</b> Total walls from previous sessions.<q>That is just a nono.</q>
   name:No
   req:500 totalWalls
   icon:http://i.imgur.com/1jcIQoo.png
   *totalWallsAchieve4
-  desc:Destroy <b>750</b> Total walls from previous sessions.<br><i>"Total time throwback!" ~Chief of Puns.</i>"
+  desc:Destroy <b>750</b> Total walls from previous sessions.<q>Total time throwback!</q><i>>Chief of Puns.</i>
   name:Windows 95
   req:750 totalWalls
   icon:http://i.imgur.com/3N925TB.png
   *totalWallsAchieve5
-  desc:Destroy <b>1,000</b> Total walls from previous sessions.<br><i>"Time to end this." ~Chief of Puns</i><br><i>"Yes." ~Agent Johnson</i>"
+  desc:Destroy <b>1,000</b> Total walls from previous sessions.<q>Time to end this.</q><i>Chief of Puns</i><q>Yes.</q><i>Agent Johnson</i>
   name:Vinyl Destroyer
   req:1000 totalWalls
   icon:http://i.imgur.com/TBBeOGf.png
   *totalWallsAchieve6
-  desc:Destroy <b>2,000</b> Total walls from previous sessions.<br><i>"Fite me Tehlurrium" ~1337 n0sc0p3r #69"</i>"
+  desc:Destroy <b>2,000</b> Total walls from previous sessions.<q>Fite me Tehlurrium</q><i>1337 n0sc0p3r #69</i>
   name:Final Level, Final Combat, Final Tears
   req:2000 totalWalls
   icon:http://i.imgur.com/ICOMz5t.png
   *totalWallsAchieve7
-  desc:Destroy <b>3,000</b> Total walls from previous sessions."
+  desc:Destroy <b>3,000</b> Total walls from previous sessions.
   name:There Is Always n+1
   req:3000 totalWalls
   icon:http://i.imgur.com/6HcIknB.png
   *totalWallsAchieve8
-  desc:Destroy <b>4,000</b> Total walls from previous sessions.<br><i>Our new model!</i>"
+  desc:Destroy <b>4,000</b> Total walls from previous sessions.<q>Our new model!</q>
   name:Wall Destroyer 4000
   req:4000 totalWalls
   icon:http://i.imgur.com/5aqM5G5.png
   *totalWallsAchieve9
-  desc:Destroy <b>5,000</b> Total walls from previous sessions."
+  desc:Destroy <b>5,000</b> Total walls from previous sessions.
   name:Chaos
   req:5000 totalWalls
   icon:http://i.imgur.com/Gtg8P7F.png
   *totalWallsAchieve10
-  desc:Destroy <b>7,500</b> Total walls from previous sessions."
+  desc:Destroy <b>7,500</b> Total walls from previous sessions.
   name:Get a Life
   req:7500 totalWalls
   icon:http://i.imgur.com/Gtg8P7F.png
   *totalWallsAchieve11
-  desc:Destroy <b>10,000</b> Total walls from previous sessions."
+  desc:Destroy <b>10,000</b> Total walls from previous sessions.
   name:Please Pass The Life Please
   req:10000 totalWalls
   icon:http://i.imgur.com/Gtg8P7F.png
   *totalWallsAchieve12
-  desc:Destroy <b>12,500</b> Total walls from previous sessions. <br><i>I'm sure this is already outrageous.</i>"
+  desc:Destroy <b>12,500</b> Total walls from previous sessions. <q>I'm sure this is already outrageous.</q>
   name:Addiction Level = Infinity
   req:12500 totalWalls
   icon:http://i.imgur.com/Gtg8P7F.png
