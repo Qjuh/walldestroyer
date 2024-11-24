@@ -151,6 +151,9 @@
 .finalitywallboss
 	{color: #2b2b2b;
 	background-image: url(http://i.imgur.com/Ra5ULVg.png);}
+.fantasywall
+    {color: #2b2b2b;
+	background-image: url(http://i.imgur.com/W1iILrI.png);}
 .wall
 	{background-repeat: no-repeat;
 	background-position: 1px 1px;
