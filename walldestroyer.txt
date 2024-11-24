@@ -289,10 +289,6 @@ Resources
   name:boss brick|boss bricks
   tags:loseonreset resources
   hidden when 0
-  *winBricks
-  name:pure brick
-  tags:loseonreset resources
-  hidden when 0
  
   *divider4
   text:────────────────────
