@@ -1355,7 +1355,7 @@ Buildings
     show timeUpgrade10
     show timeUpgrade11
     show timeUpgrade12
-    show timeUpgradeSingularity
+    show timeUpgradeSingulari
     show timeUpgrade13
     show timeUpgrade14
     show timeUpgrade15
