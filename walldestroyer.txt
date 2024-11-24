@@ -1763,7 +1763,7 @@ Buildings
   *timeUpgradeProd3
   always hidden
   passive:if (chance(0.005%)) gain 1 timeUpgradeRes21
-  *timeUpgradeProducer4
+  *timeUpgradeProd4
   always hidden
   passive:if (chance(0.005%)) gain 1 timeUpgradeRes22
 
