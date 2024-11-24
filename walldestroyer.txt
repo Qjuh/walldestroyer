@@ -4348,7 +4348,7 @@ Upgrades
   name:Chess Knuckles
   icon:http://i.imgur.com/wy0NkCV.png
   *puncherO4WallUpgrade
-  descPunchers do <b>four times</b> as much damage.<br>Hand punches deal <b>2.5 times</b> more damage.<q>A copy exists.</q>
+  desc:Punchers do <b>four times</b> as much damage.<br>Hand punches deal <b>2.5 times</b> more damage.<q>A copy exists.</q>
   cost:5e36 money, 4e22 fourthWallMatter, 1e25 bricks
   req:900 puncher
   passive:
