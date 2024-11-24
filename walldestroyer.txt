@@ -3353,7 +3353,7 @@ Upgrades
   desc:Everything is <b>12%</b> more efficient.<br><i>These are the tools made out of the Time Bear's skin; this will totally come in handy.</i>"
   cost:9876543210123456789000000 fourthWallMatter, 987654321012345678900000000 bricks
   req:14000000 prestige, 14 resetTimes
-  passive
+  passive:
     multiply yield of tag:building by 1.12
     multiply yield of tag:clickable by 1.12
   end
@@ -3363,7 +3363,7 @@ Upgrades
   desc:Everything is <b>12.5%</b> more efficient.<br><i>We beat the Time Bear. We are unstoppable. We are one. We are many.</i>"
   cost:987654321012345678900000000 fourthWallMatter, 98765432101234567890000000000 bricks
   req:18000000 prestige, 15 resetTimes
-  passive
+  passive:
     multiply yield of tag:building by 1.125
     multiply yield of tag:clickable by 1.125
   end
