@@ -1399,7 +1399,8 @@ Buildings
     gain 50000000000000000000000000 totalBricks
     gain 60000000000000000000000000000000000000 money
     gain 1 wallsDestroyed
-    gain 2 winSpendable, 1 goldBricks
+    gain 2 winSpendable
+    gain 1 goldBricks
     gain 24 finalityBricks
     gain 100 endBricks
     gain 1500 timeBricks
@@ -1990,6 +1991,7 @@ Buildings
   on earn:do update with building
   tags:building loseonreset damager
   name:Singularity|Singularities
+  icon:http://i.imgur.com/f617iwl.png
   req:have begginingUpgrade
 
   *edgeBeing
