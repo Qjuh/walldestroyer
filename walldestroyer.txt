@@ -263,7 +263,7 @@ Resources
   on update:this is puncher + clubber + swordsman + gunner + grenade + wreckingBall + bulldozer + airstrike + necromancer + giant + demon + compromiser + lastBuilding + singularityBuilding + edgeBeing + strangeGlitch + dreammachine + brickFactory
   shown
 
-  *buildings
+  *lostBuildings
   text:Buildings sacrificed: [this]
   hidden when 0
  
@@ -458,7 +458,7 @@ Buildings
     gain 1 resetTimes
     lose resetUnlock
     lose finalWallUnlock
-    gain building buildings
+    gain building lostBuildings
     gain totalMoney tesseractDamage
     gain wallsDestroyed totalWalls
     lose tag:loseonreset
@@ -9288,42 +9288,42 @@ Achievements
   desc:Sacrifice <b>10,000</b> buildings."
   name:Rebirth
   icon:http://i.imgur.com/U84N3WY.png
-  req:10000 buildings
+  req:10000 lostBuildings
   *totBuildingAchieve2
   desc:Sacrifice <b>20,000</b> buildings."
   name:Afterlife
   icon:http://i.imgur.com/CyLRNfy.png
-  req:20000 buildings
+  req:20000 lostBuildings
   *totBuildingAchieve3
   desc:Sacrifice <b>30,000</b> buildings."
   name:High Life
   icon:http://i.imgur.com/zig46Wt.png
-  req:30000 buildings
+  req:30000 lostBuildings
   *totBuildingAchieve4
   desc:Sacrifice <b>50,000</b> buildings.<br><i>EDIT: Stop inserting Geometry Dash titles</i>"
   name:Low Death
   icon:http://i.imgur.com/Zj1g3i5.png
-  req:50000 buildings
+  req:50000 lostBuildings
   *totBuildingAchieve5
   desc:Sacrifice <b>75,000</b> buildings.<br><i>"Stop it Johnson, I'm not an unit of buildings sacrificed!" ~Agent Lawrence</i>"
   name:Agent Lawrence Sucks
   icon:http://i.imgur.com/06YXjwd.png
-  req:75000 buildings
+  req:75000 lostBuildings
   *totBuildingAchieve6
   desc:Sacrifice <b>100,000</b> buildings."
   name:Real Sacrificing
   icon:http://i.imgur.com/U1jDV3O.png
-  req:100000 buildings
+  req:100000 lostBuildings
   *totBuildingAchieve7
   desc:Sacrifice <b>150,000</b> buildings."
   name:Ascension
   icon:http://i.imgur.com/GGm1lhe.png
-  req:150000 buildings
+  req:150000 lostBuildings
   *totBuildingAchieve8
   desc:Sacrifice <b>200,000</b> buildings."
   name:A lot.
   icon:http://i.imgur.com/t0XSjtB.png
-  req:200000 buildings
+  req:200000 lostBuildings
 
   *totalWallsAchieve1
   desc:Destroy <b>100</b> Total walls from previous sessions."
