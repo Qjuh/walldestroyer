@@ -2722,8 +2722,8 @@ Upgrades
   *timeUpgradeSingulari
   desc:Singularity is <b>0.02%</b> more efficient <b>per 100 minutes since reset.</b><q>Humanity did something good for once.</q>
   cost:30 timeBricks
-  req:have 1 timeUpgradeRes12
-  req:have 1 singularityBuilding
+  req:1 timeUpgradeRes12
+  req:1 singularityBuilding
   passive:multiply yield of singularityBuilding by (1 + (0.000002 * timeSinceReset))
   name:Neural Networks
   icon:http://i.imgur.com/zrkdzyP.png
@@ -2822,9 +2822,9 @@ Upgrades
   *timeUpgrade22
   desc:Purifier buildings are <b>20%</b> more efficient <b>per random bonus dream point</b>, which the demons have a 1/20,000 chance of giving you every second, no matter how many you have.<q>#6 Would be proud</q>
   cost: 1000 timeBricks, 9.8979695949392919e39 money
-  req:have 1 timeUpgradeRes22
-  req:have 4 timesActuallyWon
-  req:have 1 meshBossPoint
+  req:1 timeUpgradeRes22
+  req:4 timesActuallyWon
+  req:1 meshBossPoint
   passive:
     multiply yield of singularityBuilding by (1 + (0.2 * timeUpgradeRes22))
     multiply yield of edgeBeing by (1 + (0.2 * timeUpgradeRes22))
