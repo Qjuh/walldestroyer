@@ -2067,7 +2067,7 @@ Upgrades
   *fantasyUnlock
   desc:Everything is <b>50%</b> more efficient. </><i>Gives access to the fantasy zone.</i> "Nobody told you about this, eh?
   req:1000 puncher, 950 clubber, 900 swordsman, 850 gunner, 800 grenade, 750 wreckingBall, 700 bulldozer, 700 airstrike, 700 necromancer, 650 giant, 650 demon, 650 compromiser, 500 lastBuilding, 350 singularityBuilding, 250 edgeBeing, 150 strangeGlitch, 650 brickFactory
-  req:1e+42 handDamage, 25000000 prestige
+  req:1e42 handDamage, 25000000 prestige
   cost:2400000 prePrestige, 2e45 money
   req:9 meshBossPoint, 1 meshBricks
   passive:
@@ -4142,7 +4142,7 @@ Upgrades
   *handUpgrade17
   desc:Hand punches do <b>five times</b> as much damage.<q>Good for you, it's not the last tier.</q><i>Agent Lawrence</i>
   cost:1111111111111111111111111111111111111111 money
-  req:1e+39 handDamage
+  req:1e39 handDamage
   passive:multiply yield of hitWall by 5
   name:Faster Than Light Punches
   icon:http://i.imgur.com/Gtg8P7F.png
@@ -5475,7 +5475,7 @@ Upgrades
   icon:http://i.imgur.com/YqEx6Xx.png
   *airstrikeUpgradeArmy
   desc:Airstrikes do <b>five times</b> as much damage.<q>This reality code found in the Forgotten Floor lets us drop entire galaxies onto the wall. Are we going to evacuate and find new planets for all the entities and beings that we are about to use their galaxy to destroy a wall?</>HAHAHAHAHA</q><i>Head of RUC</i>
-  cost:3.000300030003000e+40 money, 30003000300030003000300030003 bricks
+  cost:3.000300030003000e40 money, 30003000300030003000300030003 bricks
   req:800 airstrike
   passive:multiply yield of airstrike by 5
   name:Galaxies
@@ -6148,7 +6148,7 @@ Upgrades
   icon:http://i.imgur.com/9ICkBB1.png
   *lastBuildingUp11
   desc:Black obliterators do <b>five times</b> as much damage.<q>Gravitational lensing included!</q>
-  cost:1.3e+42 money, 1.3e+25 fourthwallmatter
+  cost:1.3e42 money, 1.3e25 fourthwallmatter
   req:500 lastBuilding
   passive:multiply yield of lastBuilding by 5
   name:Venta-Pitch-Blackhole-Blackness
@@ -6177,7 +6177,7 @@ Upgrades
   icon:http://i.imgur.com/jvDmXhB.png
   *lastBuildingUpBlack
   desc:Black obliterators do <b>six times</b> as much damage.<q>Black + Black = White. Now don't question me.</q><i>RUC CEO</i>
-  cost:208e+42 money, 1.3e+25 fourthwallmatter
+  cost:208e42 money, 1.3e25 fourthwallmatter
   req:600 lastBuilding
   passive:multiply yield of lastBuilding by 6
   name:Duo Ex Machina
@@ -6236,21 +6236,21 @@ Upgrades
 
   *begginingUpMagic
   desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>After it will consume something, it will always emit gamma-ray burst</q>
-  cost:9e+33 money, 100 endBricks
+  cost:9e33 money, 100 endBricks
   req:125 singularityBuilding
   passive:multiply yield of singularityBuilding by 2
   name:Magical Singularities
   icon:http://i.imgur.com/VIJqgVJ.png
   *begginingUpMagic2
   desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>For stronger teeth.</q>
-  cost:4.5e+36 money, 8 winSpendable
+  cost:4.5e36 money, 8 winSpendable
   req:250 singularityBuilding
   passive:multiply yield of singularityBuilding by 3
   name:Teranium Diet
   icon:http://i.imgur.com/ezUitR5.png
   *begginingUpMagic3
   desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>That is like too omega.</q><i>Chief of Puns</i>
-  cost:240e+36 money, 1 meshSpendable, 1053 endBricks
+  cost:240e36 money, 1 meshSpendable, 1053 endBricks
   req:350 singularityBuilding
   passive:multiply yield of singularityBuilding by 3
   name:Stranger Infinities
@@ -6329,21 +6329,21 @@ Upgrades
 
   *edgeUpgradeMagic
   desc:Edge beings deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Slice something from more than infinite angle.</q>
-  cost:18e+36 money, 1e24 bricks
+  cost:18e36 money, 1e24 bricks
   req:125 edgeBeing
   passive:multiply yield of edgeBeing by 2
   name:Finality Beings
   icon:http://i.imgur.com/5fqSkOk.png
   *edgeUpgradeMagic2
   desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>They are mortals too if you didnt realize yet.</q>
-  cost:9e+39 money, 2e27 bricks
+  cost:9e39 money, 2e27 bricks
   req:250 edgeBeing
   passive:multiply yield of edgeBeing by 3
   name:Eleventium Plated Armor
   icon:http://i.imgur.com/30AnX00.png
   *edgeUpgradeMagic3
   desc:Edge beings deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>With a katana.</q>
-  cost:480e+42 money, 4e30 bricks
+  cost:480e42 money, 4e30 bricks
   req:350 edgeBeing
   passive:multiply yield of edgeBeing by 3
   name:Smite
