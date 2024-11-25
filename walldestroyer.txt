@@ -396,7 +396,6 @@ Resources
   *wallRequirement
   always hidden
   start with:1
-  on load:this is 1
   *resetToken
   always hidden
   start with:1
