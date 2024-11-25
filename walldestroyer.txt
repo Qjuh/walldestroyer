@@ -1614,7 +1614,7 @@ Buildings
     gain 25 alphaBricks
     gain 4 fifthBricks
     gain 350000 prePrestige
-    gain 16000 artspacebricks
+    gain 16000 artSpaceBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1631,8 +1631,8 @@ Buildings
     gain 40 alphaBricks
     gain 7 fifthBricks
     gain 450000 prePrestige
-    gain 64000 artspacebricks
-    gain 25400 arttimebricks
+    gain 64000 artSpaceBricks
+    gain 25400 artTimeeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1649,8 +1649,8 @@ Buildings
     gain 60 alphaBricks
     gain 12 fifthBricks
     gain 550000 prePrestige
-    gain 128000 artspacebricks
-    gain 35000 arttimebricks
+    gain 128000 artSpaceBricks
+    gain 35000 artTimeeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1667,8 +1667,8 @@ Buildings
     gain 80 alphaBricks
     gain 16 fifthBricks
     gain 650000 prePrestige
-    gain 320000 artspacebricks
-    gain 80000 arttimebricks
+    gain 320000 artSpaceBricks
+    gain 80000 artTimeeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1685,8 +1685,8 @@ Buildings
     gain 125 alphaBricks
     gain 25 fifthBricks
     gain 750000 prePrestige
-    gain 640000 artspacebricks
-    gain 100000 arttimebricks
+    gain 640000 artSpaceBricks
+    gain 100000 artTimeeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1703,8 +1703,8 @@ Buildings
     gain 150 alphaBricks
     gain 35 fifthBricks
     gain 1000000 prePrestige
-    gain 750000 artspacebricks
-    gain 100000 arttimebricks
+    gain 750000 artSpaceBricks
+    gain 100000 artTimeeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -3374,7 +3374,7 @@ Upgrades
     
   *victoryPointUpgrade1
   desc:Almost every single wall gives <b>twice</b> as many rewards when destroyed. Walls that aren't affected: Boss Finality Wall</><i>To turn the wall into pure gold so we get more money when we break it.</i>
-  cost:1e36 money, 1e33 fourthwallmatter, 1e7 artspacebricks, 1e6 arttimebricks
+  cost:1e36 money, 1e33 fourthwallmatter, 1e7 artSpaceBricks, 1e6 artTimeeBricks
   req:300 singularityBuilding, 300 edgeBeing, 250 strangeGlitch
   req:1 timesActuallyWon
   passive:
@@ -3386,7 +3386,7 @@ Upgrades
     
   *victoryPointUpgrade2
   desc:Everything is <b>50%</b> more efficient. <b>Unlocks... Dreamy Coins?</b></><i>We accidentally were able to reach inside people's dreams. It looks like we could mine from them, a mysterious resource called Dreamy Coins. Sounds original, right? RIGHT??? </b>
-  cost:4.242424242e39 money, 4.2424242e36 fourthwallmatter, 6.4646464e8 artspacebricks, 5.2525252e8 arttimebricks
+  cost:4.242424242e39 money, 4.2424242e36 fourthwallmatter, 6.4646464e8 artSpaceBricks, 5.2525252e8 artTimeeBricks
   req:4 timesActuallyWon
   passive:
     multiply yield of tag:building by 1.5
@@ -6479,28 +6479,28 @@ Upgrades
   icon:http://i.imgur.com/skLNAG0.png
   *glitchscroll12
   desc:Glitches are <b>4 times</b> as efficient.<q>These don't consume the other space bricks and time bricks, we found out we'll just use the artifically made ones instead, since they have the same power, when eventually stacked together.</q>
-  cost:3.14159265e41 money, 250000 prePrestige, 50000 artspacebricks, 30000 arttimebricks
+  cost:3.14159265e41 money, 250000 prePrestige, 50000 artSpaceBricks, 30000 artTimeeBricks
   req:400 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Glitch Node I
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll13
   desc:Glitches are <b>4 times</b> as efficient. (Glitch Node II)<q>New destruction power was made!</q>
-  cost:9e42 money, 300000 prePrestige, 200000 artspacebricks, 50000 arttimebricks
+  cost:9e42 money, 300000 prePrestige, 200000 artSpaceBricks, 50000 artTimeeBricks
   req:450 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Astonishing Variables
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll14
   desc:Glitches are <b>4.5 times</b> as efficient. (Glitch Node III)<q>It's kind of breaking physics.</q>
-  cost:2.5732135e43 money, 400000 prePrestige, 300000 artspacebricks, 70000 arttimebricks
+  cost:2.5732135e43 money, 400000 prePrestige, 300000 artSpaceBricks, 70000 artTimeeBricks
   req:500 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.5
   name:Misplace 
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll15
   desc:Glitches are <b>4.8 times</b> as efficient. (Glitch Node IV)<q>Zero day loopholes in walls are now being used to our advantage... if we controlled them. Don't ask why walls have zero day bugs, it sounds weird.</q>
-  cost:9.090090009e43 money, 500000 prePrestige, 400000 artspacebricks, 100000 arttimebricks
+  cost:9.090090009e43 money, 500000 prePrestige, 400000 artSpaceBricks, 100000 artTimeeBricks
   req:550 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.8
   name:Present Abuse
@@ -6514,7 +6514,7 @@ Upgrades
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionI
   desc:Glitches are <b>4 times</b> as efficient, at the cost of every other building only being 98% as efficient. Continues the suppression. <q>I thought we knew everything, but based on some leaked information, I guess we don't have enough of it.</q>
-  cost:5e44 money, 25000 artspacebricks
+  cost:5e44 money, 25000 artSpaceBricks
   passive:
     multiply yield of strangeGlitch by (4 / 0.98)
     multiply yield of tag:building by 0.98
@@ -6524,7 +6524,7 @@ Upgrades
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionII
   desc:Glitches are <b>4 times</b> as efficient, at the cost of manual punching being only 90% as efficient. Continues the suppression. <q>It's affecting almost everything at the moment, we've got to stop it!</q><i>>No One Said Ever (except you)</i>
-  cost:9e44 money, 36363 artspacebricks
+  cost:9e44 money, 36363 artSpaceBricks
   passive:
     multiply yield of strangeGlitch by 4
     multiply yield of hitWall by 0.9
@@ -6534,7 +6534,7 @@ Upgrades
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionIII
   desc:Glitches are <b>5.2 times</b> as efficient, at the cost of manual punching being only 80% as efficient. Continues the suppression. <q>What is the cost? Why does it matter?</q>
-  cost:2.550550555e45 money, 72000 artspacebricks
+  cost:2.550550555e45 money, 72000 artSpaceBricks
   passive:
     multiply yield of strangeGlitch by 5.2
     multiply yield of hitWall by 0.8
@@ -6544,7 +6544,7 @@ Upgrades
   icon:https://i.imgur.com/fK6RsL6.png
   *suppressionIV
   desc:Glitches are <b>5.5 times</b> as efficient, at the cost of manual punching being only 60% as efficient. Continues the suppression. <q>Why did we trust them? It affects us humans...</q>
-  cost:1e47 money, 144000 artspacebricks
+  cost:1e47 money, 144000 artSpaceBricks
   passive:
     multiply yield of strangeGlitch by 5.5
     multiply yield of hitWall by 0.6
