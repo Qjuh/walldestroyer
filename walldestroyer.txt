@@ -1423,7 +1423,7 @@ Buildings
     gain 1 wallsDestroyed
     gain 5 winSpendable
     gain 1 goldBricks
-    gaim 1 meshBricks
+    gain 1 meshBricks
     gain 1 meshSpendable
     gain 128 finalityBricks
     gain 800 endBricks
