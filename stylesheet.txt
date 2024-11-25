@@ -1,7 +1,8 @@
 #game
 	{background-color:#58c4b1;
 	color:#a2cfc4;
-	font-family: Kavoon;}
+	font-family: Kavoon;
+	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);}
 #title
 	{position: fixed;
 	width: 250px;
