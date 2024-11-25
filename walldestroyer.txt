@@ -1632,7 +1632,7 @@ Buildings
     gain 7 fifthBricks
     gain 450000 prePrestige
     gain 64000 artSpaceBricks
-    gain 25400 artTimeeBricks
+    gain 25400 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1650,7 +1650,7 @@ Buildings
     gain 12 fifthBricks
     gain 550000 prePrestige
     gain 128000 artSpaceBricks
-    gain 35000 artTimeeBricks
+    gain 35000 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1668,7 +1668,7 @@ Buildings
     gain 16 fifthBricks
     gain 650000 prePrestige
     gain 320000 artSpaceBricks
-    gain 80000 artTimeeBricks
+    gain 80000 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1686,7 +1686,7 @@ Buildings
     gain 25 fifthBricks
     gain 750000 prePrestige
     gain 640000 artSpaceBricks
-    gain 100000 artTimeeBricks
+    gain 100000 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -1704,7 +1704,7 @@ Buildings
     gain 35 fifthBricks
     gain 1000000 prePrestige
     gain 750000 artSpaceBricks
-    gain 100000 artTimeeBricks
+    gain 100000 artTimeBricks
     gain 1 wallsDestroyed
     gain 1 wallRequirement
     hide this
@@ -3374,7 +3374,7 @@ Upgrades
     
   *victoryPointUpgrade1
   desc:Almost every single wall gives <b>twice</b> as many rewards when destroyed. Walls that aren't affected: Boss Finality Wall</><i>To turn the wall into pure gold so we get more money when we break it.</i>
-  cost:1e36 money, 1e33 fourthwallmatter, 1e7 artSpaceBricks, 1e6 artTimeeBricks
+  cost:1e36 money, 1e33 fourthwallmatter, 1e7 artSpaceBricks, 1e6 artTimeBricks
   req:300 singularityBuilding, 300 edgeBeing, 250 strangeGlitch
   req:1 timesActuallyWon
   passive:
@@ -3386,7 +3386,7 @@ Upgrades
     
   *victoryPointUpgrade2
   desc:Everything is <b>50%</b> more efficient. <b>Unlocks... Dreamy Coins?</b></><i>We accidentally were able to reach inside people's dreams. It looks like we could mine from them, a mysterious resource called Dreamy Coins. Sounds original, right? RIGHT??? </b>
-  cost:4.242424242e39 money, 4.2424242e36 fourthwallmatter, 6.4646464e8 artSpaceBricks, 5.2525252e8 artTimeeBricks
+  cost:4.242424242e39 money, 4.2424242e36 fourthwallmatter, 6.4646464e8 artSpaceBricks, 5.2525252e8 artTimeBricks
   req:4 timesActuallyWon
   passive:
     multiply yield of tag:building by 1.5
@@ -6479,28 +6479,28 @@ Upgrades
   icon:http://i.imgur.com/skLNAG0.png
   *glitchscroll12
   desc:Glitches are <b>4 times</b> as efficient.<q>These don't consume the other space bricks and time bricks, we found out we'll just use the artifically made ones instead, since they have the same power, when eventually stacked together.</q>
-  cost:3.14159265e41 money, 250000 prePrestige, 50000 artSpaceBricks, 30000 artTimeeBricks
+  cost:3.14159265e41 money, 250000 prePrestige, 50000 artSpaceBricks, 30000 artTimeBricks
   req:400 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Glitch Node I
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll13
   desc:Glitches are <b>4 times</b> as efficient. (Glitch Node II)<q>New destruction power was made!</q>
-  cost:9e42 money, 300000 prePrestige, 200000 artSpaceBricks, 50000 artTimeeBricks
+  cost:9e42 money, 300000 prePrestige, 200000 artSpaceBricks, 50000 artTimeBricks
   req:450 strangeGlitch
   passive:multiply yield of strangeGlitch by 4
   name:Astonishing Variables
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll14
   desc:Glitches are <b>4.5 times</b> as efficient. (Glitch Node III)<q>It's kind of breaking physics.</q>
-  cost:2.5732135e43 money, 400000 prePrestige, 300000 artSpaceBricks, 70000 artTimeeBricks
+  cost:2.5732135e43 money, 400000 prePrestige, 300000 artSpaceBricks, 70000 artTimeBricks
   req:500 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.5
   name:Misplace 
   icon:http://i.imgur.com/nLIn2uJ.png
   *glitchscroll15
   desc:Glitches are <b>4.8 times</b> as efficient. (Glitch Node IV)<q>Zero day loopholes in walls are now being used to our advantage... if we controlled them. Don't ask why walls have zero day bugs, it sounds weird.</q>
-  cost:9.090090009e43 money, 500000 prePrestige, 400000 artSpaceBricks, 100000 artTimeeBricks
+  cost:9.090090009e43 money, 500000 prePrestige, 400000 artSpaceBricks, 100000 artTimeBricks
   req:550 strangeGlitch
   passive:multiply yield of strangeGlitch by 4.8
   name:Present Abuse
