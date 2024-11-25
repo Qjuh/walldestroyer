@@ -316,7 +316,7 @@ Resources
  
   *upgradeCounter
   tag:upgradeHeader
-  text:Upgrades [this]/477 ([floor(this*1000/477)/10]%)
+  text:Upgrades [this]/580 ([floor(this*100/580)]%)
   no tooltip
 
   //abstract stuff
