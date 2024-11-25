@@ -2406,12 +2406,14 @@ Upgrades
   cost:10 timeBricks, 5e26 money
   name:Play Chess
   icon:http://i.imgur.com/JJCV9QM.png
+  req:1 destroyBonusWall20
 
   *edgeBeingUnlock
   desc:Summon infinite-dimensional beings that use energy from extinguished universes. <b>Unlocks the Edge Being.</b><q>GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}</q>
   cost:4 endBricks, 4e29 money
   name:リサフランクXXYYXX //現代のコンピュー
   icon:http://i.imgur.com/oV8GJqX.png
+  req:1 destroyBonusWall30
 
   *spaceResearch
   desc:Unlocks the <b>space upgrades</b>.<q>We suspect the space bricks contain many secrets of the universe. Because come on, like we'd find some totally useless bricks?</q>
