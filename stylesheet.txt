@@ -107,6 +107,10 @@
 	{display: block;
 	font-size: 12px;
 	font-weight: normal;}
+.tag-building .cost:nth-last-child(1 of .cost)
+	{float: left;}
+.tag-building .costTimeRemaining
+	{float: right;}
 .tag-building .thing-icon
 	{width: 70px;
 	min-height: 55px;
