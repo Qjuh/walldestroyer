@@ -2724,7 +2724,7 @@ Upgrades
   cost:30 timeBricks
   req:have 1 timeUpgradeRes12
   req:have 1 singularityBuilding
-  passive: multiply yield of singularityBuilding by (1 + (0.000002 * timeSinceReset))
+  passive:multiply yield of singularityBuilding by (1 + (0.000002 * timeSinceReset))
   name:Neural Networks
   icon:http://i.imgur.com/zrkdzyP.png
 
