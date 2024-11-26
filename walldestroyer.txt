@@ -1,9 +1,10 @@
 Let's make a game!
   name:Wall Destroyer
   by:Tellurium
+  desc:This was originally made by Tellurium with the legacy/vintage version of Idle Game Maker. It was later extended with more content by 100lol and usavictor2. And even later ported over to Idle Game Maker 2 by Qjuh. Which is the version you're playing right now.
   created:04/21/2014
-  updated:11/10/2024
-  version:3.1
+  updated:11/26/2024
+  version:3.2
 
 Settings
   building cost increase:110%
