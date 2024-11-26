@@ -12,6 +12,8 @@ Settings
   stylesheet:https://raw.githubusercontent.com/Qjuh/walldestroyer/refs/heads/dev/stylesheet.txt
 
 Layout
+  *main
+    contains:buildings, clickables, resources, upgrades
   
   *buildings
     contains:BulkDisplay, tag:wall, tag:building

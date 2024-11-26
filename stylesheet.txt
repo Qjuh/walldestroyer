@@ -10,11 +10,12 @@
 .box
    {position: inherit;
    margin: 5px;}
-#content
+#box-main
    {
 	display: flex;
 	align-items: stretch;
 	gap: 10px;
+	height: 100%;
    }
 #box-clickables
 	{
