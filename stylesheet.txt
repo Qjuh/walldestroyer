@@ -88,10 +88,12 @@
 .tag-building .thing-text
 	{font-size: 18px;
 	font-weight: bold;}
+.necromancer .thing-text, .lastBuilding .thing-text
+	{padding-bottom: 0;}
+.necromancer .thing-costs, .lastBuilding .thing-costs
+	{padding-top: 0;}
 .compromiser .thing-text
-	{font-size: 16px; 
-	font-weight: bold;
-	padding-top: 2px;}
+	{font-size: 16px;}
 .tag-building .amount
 	{position: absolute;
 	float:right;
