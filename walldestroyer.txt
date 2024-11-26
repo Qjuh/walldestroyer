@@ -11,20 +11,19 @@ Settings
   stylesheet:https://raw.githubusercontent.com/Qjuh/walldestroyer/refs/heads/dev/stylesheet.txt
 
 Layout
-  *main
-    contains:buildings, clickables, resources, upgrades
+  
+  *buildings
+    contains:BulkDisplay, tag:wall, tag:building
   
   *clickables
     contains:tag:clickable, tag:textbutton
     names:hide
+    header:WallDestroyer by Tellurium
 
   *resources
     contains:tag:resources
     header:Resources
     no tooltip
-  
-  *buildings
-    contains:BulkDisplay, tag:wall, tag:building
   
   *upgrades
     contains:tag:upgradeHeader, Upgrades
