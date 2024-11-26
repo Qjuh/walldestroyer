@@ -6236,6 +6236,84 @@ Upgrades
   name:Actually Indestructible Robots
   icon:http://i.imgur.com/kBznWvd.png
 
+	*begginingUpgrade1
+  desc:Singularities deal <b>50%</b> more damage and generate <b>50%</b> more bricks.<q>Once there was a universe before ours, before anything else, there was singularity that could do anything, now we just give it a shape and we have total destruction that has a chance to get rid out our civilization.</q>
+  cost:1.5e+27 money, 10 timeBricks, 100 artSpaceBricks
+  req:1 singularityBuilding
+  passive:multiply yield of singularityBuilding by 1.5
+  name:Distinguish Singularity
+  icon:http://i.imgur.com/c6wbTjb.png
+	*begginingUpgrade2
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>In other words, total catastrophy!</q>
+  cost:15e+27 money, 20 timeBricks, 500 artSpaceBricks
+  req:5 singularityBuilding
+  passive:multiply yield of singularityBuilding by 2
+  name:Umbrii Katastrofish
+  icon:http://i.imgur.com/mf6J2LT.png
+	*begginingUpgrade3
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Now it can hunt walls with his AI that gets more intelligent over time.</q>
+  cost:200e+27 money, 35 timeBricks, 1000 artSpaceBricks
+  req:25 singularityBuilding
+  passive:multiply yield of singularityBuilding by 2
+  name:Technological Singularity
+  icon:http://i.imgur.com/6MiAbrF.png
+	*begginingUpgrade4
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Total Destruction. More total than before, total totalliness.</q><i>Agent Johnson</i>
+  cost:750e+27 money, 45 timeBricks, 5000 artSpaceBricks
+  req:50 singularityBuilding
+  passive:multiply yield of singularityBuilding by 2
+  name:Single Check Mate
+  icon:http://i.imgur.com/0eO1KAQ.png
+	*begginingUpgrade5
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Not even Hyzem himself.</q>
+  cost:15e+30 money, 65 timeBricks, 75000 artSpaceBricks
+  req:75 singularityBuilding
+  passive:multiply yield of singularityBuilding by 2
+  name:Nobody
+  icon:http://i.imgur.com/Xecmd2L.png
+	*begginingUpgrade6
+  desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>Destroys walls from all dimensional angles, duh.</q>
+  cost:150e+30 money, 100 artTimeBricks, 1000000 artSpaceBricks
+  req:100 singularityBuilding
+  passive:multiply yield of singularityBuilding by 2
+  name:Inner Consuming
+  icon:http://i.imgur.com/dIy04KR.png
+	*begginingUpgrade7
+  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.<q>To The Power of Squared</q><i>Agent Connor</i>
+  cost:30e+33 money, 3000 artTimeBricks, 15000000 artSpaceBricks
+  req:150 singularityBuilding
+  passive:multiply yield of singularityBuilding by 3
+  name:Tetration
+  icon:http://i.imgur.com/hVTEcOK.png
+	*begginingUpgrade8
+  desc:Singularities deal <b>three</b> times as much damage and generate <b>three</b> times as much bricks.
+  cost:300e+33 money, 90000 artTimeBricks, 250000000 artSpaceBricks
+  req:200 singularityBuilding
+  passive:multiply yield of singularityBuilding by 3
+  name:Pentation and Beyond
+  icon:http://i.imgur.com/04ZQmQN.png
+	*begginingUpgrade9
+  desc:Singularities deal <b>four</b> times as much damage and generate <b>four</b> times as much bricks.
+  cost:60e+36 money, 2700000 artTimeBricks, 7500000000 artSpaceBricks
+  req:300 singularityBuilding
+  passive:multiply yield of singularityBuilding by 4
+  name:Strange infinities
+  icon:http://i.imgur.com/U6HJjoT.png
+	*begginingUpgrade10
+  desc:Singularities deal <b>four</b> times as much damage and generate <b>four</b> times as much bricks.<q>AI wants something too right? So we give them universe sized dodecahedron!</q><i>RUC CEO</i><q>I never remember RUC CEO so generous</q><i>Agent Connor</i>
+  cost:600e+36 money, 8100000 artTimeBricks, 150000000000 artSpaceBricks
+  req:400 singularityBuilding
+  passive:multiply yield of singularityBuilding by 4
+  name:Imaginary Dodecahedrons
+  icon:http://i.imgur.com/NAaPDX3.png
+	*begginingUpgrade11
+  desc:Singularities deal <b>four</b> times as much damage and generate <b>four</b> times as much bricks.<q>They split in half at room temperature.</q><i>Local Bioengineer</i>
+  cost:120e+42 money, 30000000 artTimeBricks, 4500000000000 artSpaceBricks
+  req:500 singularityBuilding
+  passive:multiply yield of singularityBuilding by 4
+  name:Genetical Splitting
+  icon:http://i.imgur.com/UutBnId.png
+
   *begginingUpMagic
   desc:Singularities deal <b>twice</b> as much damage and generate <b>twice</b> as much bricks.<q>After it will consume something, it will always emit gamma-ray burst</q>
   cost:9e33 money, 100 endBricks
