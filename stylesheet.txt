@@ -3,11 +3,6 @@
 	color:#a2cfc4;
 	font-family: Kavoon;
 	text-shadow: 1px 1px 0px rgba(0,0,0,0.2);}
-#box-clickables .box-header
-	{font-size: 20px;
-	color: #fff;
-	text-shadow: 0px 2px 8px #000;
-	}
 .thing-icon
    {
 	background-repeat: no-repeat;
@@ -77,10 +72,18 @@
 	{font-size: 0px;}
 .wall .cost + .cost
     {display: none;}
-.tag-building, .tag-wall, .box, .upgrade.notOwned, .textbutton
+.tag-building, .tag-wall, .box, .upgrade.notOwned, .textbutton, #box-clickables .box-header
 	{  border: 1px solid #000;
 		box-shadow: 0px 1px 0px #fff inset,0px -1px 0px rgba(0,0,0,0.25) inset,0px 0px 6px rgba(255,255,255,0.2) inset,0px 0px 6px rgba(0,0,0,0.2);
 		margin: -1px;}
+#box-clickables .box-header
+	{font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0px 2px 8px #000;
+	line-height: 150%;
+	margin-bottom: 20px;
+	}
 .textbutton
 	{color:#304846;}
 .building
