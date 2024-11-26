@@ -18,7 +18,7 @@ Layout
   *clickables
     contains:tag:clickable, tag:textbutton
     names:hide
-    header:WallDestroyer by Tellurium
+    header:Wall Destroyer by Tellurium
 
   *resources
     contains:tag:resources
