@@ -19,7 +19,7 @@ Layout
   *clickables
     contains:tag:clickable, tag:textbutton
     names:hide
-    header:Wall Destroyer by Tellurium
+    header:Wall Destroyer by Tellurium et al.
 
   *resources
     contains:tag:resources
